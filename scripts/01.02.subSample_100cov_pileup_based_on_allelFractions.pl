@@ -12,7 +12,7 @@ foreach my $each_line (<in_pileup>)
   chomp $each_line;
   my @each_pos = split("\t",$each_line);
   my $depth = length($each_pos[4]);
-  my $cou_a;my $cou_t;my $cou_g;my $cou_c;
+  my $cou_a = 0;my $cou_t = 0;my $cou_g = 0;my $cou_c = 0;
  if ($each_pos[3] > 100)
  {
   my @ASCII = unpack ("C*", $each_pos[5]);
@@ -22,7 +22,7 @@ foreach my $each_line (<in_pileup>)
     my $val = $ASCII[$i];
     my $base = substr($each_pos[4],$i,1);
 #    print "$base\n";
-    if ($val -31 >= 20) 
+    if ($val -31 >= 20)
     {
       my $qual = pack("C*", $val);push (@passed_qual, $qual);
 #     print "$qual\n";
@@ -39,7 +39,7 @@ foreach my $each_line (<in_pileup>)
   for (1..$per_t) {push (@total_str,'T');}
   for (1..$per_g) {push (@total_str,'G');}
   for (1..$per_c) {push (@total_str,'C');}
-  
+
   my $seq = join '', @total_str;
   my $taken = length($seq);
 #  my $taken_seq = substr ($seq,0,$taken);
