@@ -32,8 +32,8 @@ tempFol="/lustre/scratch/users/rahul.pisupati/tempFiles/"
 nt=8
 SCRIPT_PATH=`dirname $0`  ## gives the path
 
-REcontigs="Repeat_contigs_RE_min500bp.fa"
-sraid="SRR352164"
+REcontigs="Repeat_contigs_RE_filtered_min500bp.fa"
+sraid="SRR847535"
 
 # Generating pileup file for contigs and mapping to raw reads
 bwa index $REcontigs
@@ -49,45 +49,39 @@ then
         rm ${sraid}.sam ${sraid}.aligned.bam ${sraid}.sorted.bam ${sraid}.dedup.bam ${sraid}.metrics
 fi
 
-samtools mpileup ${sraid}.modified.bam > ${sraid}.pileup
-
 # Changing quality scores and removing INDELs in the pileup before giving that to pileup
+samtools mpileup ${sraid}.modified.bam > ${sraid}.pileup
 perl ${SCRIPT_PATH}/01.01.changeQualScore_to_illumina_remove_INDELs_pileup.pl ${sraid}.pileup ${sraid}.modified.pileup
 perl ${SCRIPT_PATH}/01.02.subSample_100cov_pileup_based_on_allelFractions.pl ${sraid}.modified.pileup ${sraid}.subcov.modified.pileup
+## get the average coverage
+awk ' NF > 0 {totcov[$1] = totcov[$1] + $4; count[$1] = count[$1] + 1; } END { for (contig in totcov) print contig "\t" totcov[contig]/count[contig]; }' ${sraid}.pileup | sed 's/Contig/\tContig/' > ${sraid}.avg.cov.txt
 
 if [ -f ${sraid}.subcov.modified.pileup ]
 then
-        rm ${sraid}.sam ${sraid}.aligned.bam ${sraid}.sorted.bam ${sraid}.dedup.bam ${sraid}.metrics
+        rm ${sraid}.pileup ${sraid}.modified.pileup
 fi
-
-
-
 
 # Running Popoolation on the subsampled pileup file
 # Calculating divergence and D values
-#perl ~/Apps/popoolation_1.2.2/Variance-sliding.pl --measure pi --input ${4}.subcov100.pileup --output ${4}.subcov100.pi --pool-size 1000 --min-count 2 --min-covered-fraction 0
-#sed -i 's/Contig/\tContig/' ${4}.subcov100.pi
-
+perl ~/Softwares/popoolation_1.2.2/Variance-sliding.pl --measure pi --input ${sraid}.subcov.modified.pileup --output ${sraid}.subcov100.pi --pool-size 1000 --min-count 2 --min-covered-fraction 0
+sed -i 's/Contig/\tContig/' ${sraid}.subcov100.pi
 #perl ~/Apps/popoolation_1.2.2/Variance-sliding.pl --measure D --input ${4}.subcov100.pileup --output ${4}.subcov100.D --pool-size 1000 --min-count 2 --min-covered-fraction 0
 #sed -i 's/Contig/\tContig/' ${4}.subcov100.D
 
-# To get average coverage in pileup
-#awk ' NF > 0 {totcov[$1] = totcov[$1] + $4; count[$1] = count[$1] + 1; } END { for (contig in totcov) print contig "\t" totcov[contig]/count[contig]; }' ${4}.modified.pileup > ${4}.avg.cov
-#sed -i 's/Contig/\tContig/'  ${4}.avg.cov
-#erl join_avg_cover_pi.pl  ${4}.subcov100.pi ${4}.avg.cov ${4}.subcov100.mod.pi
-#perl join_avg_cover_pi.pl  ${4}.subcov100.D ${4}.avg.cov ${4}.subcov100.mod.D
+avgDepth=`cat ${sraid}_avgDepth.txt`
+perl ${SCRIPT_PATH}/01.03.join_avg_cover_pi.pl  ${sraid}.subcov100.pi ${sraid}.avg.cov.txt ${avgDepth} ${sraid}.subcov100.mod.pi
+#perl join_avg_cover_pi.pl ${sraid}.subcov100.D ${sraid}.avg.cov.txt ${avgDepth} ${sraid}.subcov100.mod.D
 
-#mv ${4}.subcov100.mod.pi ${4}.subcov100.pi
-#mv ${4}.subcov100.mod.D ${4}.subcov100.D
+if [ -f ${sraid}.subcov100.mod.pi ]
+then
+        rm ${sraid}.subcov100.pi
+fi
 
 # Extract the reads at a position with hightest coverage from the sam file
-
 #mkdir contig_positions
 #cd contig_positions
 #bash ~/SCRIPT_PATH/extract_Reads_atMaxPosition_Contig.sh ../${4}.sam
 #cd ../
-
 # Run Aaron's tool to give the phylogeny between the elements foreach contig
-
 # Removing the sam and bam files
 #rm  ${4}.sam  ${4}.bam

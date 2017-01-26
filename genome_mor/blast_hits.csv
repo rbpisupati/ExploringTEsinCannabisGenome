@@ -1,0 +1,478 @@
+,query_title,filter,top_hit_score,top_hit_name,top_hit_id
+1,CL16Contig7,,196,"PREDICTED: Amborella trichopoda uncharacterized LOC18432918 (LOC18432918), partial mRNA",gi|769813620|ref|XM_006843013.2|
+2,CL16Contig20,,651,Morus notabilis hypothetical protein partial mRNA,gi|703158557|ref|XM_010113719.1|
+3,CL16Contig29,,627,Morus notabilis ATP-dependent RNA helicase dhx8 partial mRNA,gi|703120426|ref|XM_010103797.1|
+4,CL16Contig68,,140,"Populus trichocarpa clone Pop1-30O8, complete sequence",gi|88900531|gb|AC182680.2|
+5,CL18Contig80,,30,Morus notabilis hypothetical protein partial mRNA,gi|703098859|ref|XM_010098196.1|
+6,CL18Contig93,,30,Morus notabilis hypothetical protein partial mRNA,gi|703098859|ref|XM_010098196.1|
+7,CL21Contig3,,108,Morus notabilis putative LRR receptor-like serine/threonine-protein kinase partial mRNA,gi|703105148|ref|XM_010099876.1|
+8,CL21Contig277,,80,Morus notabilis Cellulose synthase-like protein E1 partial mRNA,gi|703083962|ref|XM_010094045.1|
+9,CL21Contig398,,116,Morus notabilis Homogentisate phytyltransferase 2 partial mRNA,gi|703106538|ref|XM_010100224.1|
+10,CL21Contig459,,65,Morus notabilis Metal transporter Nramp5 partial mRNA,gi|703161410|ref|XM_010114482.1|
+11,CL21Contig542,,56,Morus notabilis Metal transporter Nramp5 partial mRNA,gi|703161410|ref|XM_010114482.1|
+12,CL22Contig6,,124,Morus notabilis hypothetical protein partial mRNA,gi|703088408|ref|XM_010095225.1|
+13,CL22Contig37,,2424,"Zebrafish DNA sequence from clone CH211-255P12 in linkage group 18, complete sequence",gi|61969304|emb|BX927281.25|
+14,CL22Contig55,,29,"Plasmodium vivax genome assembly, chromosome: 13",gi|1105166459|emb|LT635624.1|
+15,CL25Contig3,,435,Morus indica microsatellite MSCP116-C sequence,gi|459172003|gb|KC408267.1|
+16,CL25Contig43,,495,Morus notabilis hypothetical protein partial mRNA,gi|703138299|ref|XM_010108401.1|
+17,CL25Contig70,,390,Morus indica microsatellite MSCP116-C sequence,gi|459172003|gb|KC408267.1|
+18,CL25Contig75,,295,Morus indica microsatellite MSCP116-C sequence,gi|459172003|gb|KC408267.1|
+19,CL25Contig93,,138,Morus indica microsatellite MSCP116-C sequence,gi|459172003|gb|KC408267.1|
+20,CL27Contig281,,28,"PREDICTED: Lates calcarifer ephrin-A5b-like (LOC108901123), mRNA",gi|1079776115|ref|XM_018702519.1|
+21,CL27Contig387,,474,Morus notabilis putative LRR receptor-like serine/threonine-protein kinase partial mRNA,gi|703076541|ref|XM_010092058.1|
+22,CL27Contig432,,447,Morus notabilis hypothetical protein partial mRNA,gi|703064134|ref|XM_010088827.1|
+23,CL29Contig1,1,7568,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+24,CL30Contig53,,347,Morus notabilis hypothetical protein partial mRNA,gi|703120636|ref|XM_010103843.1|
+25,CL30Contig79,,49,"PREDICTED: Brassica oleracea var. oleracea uncharacterized LOC106302496 (LOC106302496), mRNA",gi|922520258|ref|XM_013738994.1|
+26,CL30Contig86,,385,Morus notabilis hypothetical protein partial mRNA,gi|703129266|ref|XM_010106020.1|
+27,CL30Contig129,,102,Morus notabilis hypothetical protein partial mRNA,gi|703067404|ref|XM_010089658.1|
+28,CL30Contig131,,376,Morus notabilis hypothetical protein partial mRNA,gi|703155600|ref|XM_010112942.1|
+29,CL30Contig149,,264,Morus notabilis hypothetical protein partial mRNA,gi|703143340|ref|XM_010109687.1|
+30,CL30Contig162,,83,Morus notabilis hypothetical protein partial mRNA,gi|703127196|ref|XM_010105468.1|
+31,CL30Contig175,,375,Morus notabilis hypothetical protein partial mRNA,gi|703107799|ref|XM_010100537.1|
+32,CL31Contig1,1,2073,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+33,CL31Contig2,1,619,"Sabia sp. Qiu 91025 large subunit ribosomal RNA gene, partial sequence; mitochondrial",gi|66969335|gb|DQ008747.1|
+34,CL31Contig3,1,4040,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+35,CL31Contig6,,4872,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+36,CL32Contig38,,252,Morus notabilis hypothetical protein partial mRNA,gi|703070411|ref|XM_010090477.1|
+37,CL32Contig79,,141,Morus notabilis hypothetical protein partial mRNA,gi|703077646|ref|XM_010092343.1|
+38,CL32Contig100,,403,Morus notabilis hypothetical protein partial mRNA,gi|703077642|ref|XM_010092342.1|
+39,CL32Contig102,,209,Morus indica microsatellite MSCP119-C sequence,gi|459172006|gb|KC408270.1|
+40,CL32Contig137,,201,Morus notabilis hypothetical protein partial mRNA,gi|703070411|ref|XM_010090477.1|
+41,CL32Contig177,,166,Morus notabilis hypothetical protein partial mRNA,gi|703077642|ref|XM_010092342.1|
+42,CL32Contig186,,189,Morus notabilis hypothetical protein partial mRNA,gi|703077646|ref|XM_010092343.1|
+43,CL33Contig6,,702,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703069074|ref|XM_010090106.1|
+44,CL33Contig47,,211,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703069074|ref|XM_010090106.1|
+45,CL34Contig87,,31,Oryza sativa (indica cultivar-group) clone 8S9B37 mRNA sequence,gi|69048990|gb|DQ083220.1|
+46,CL34Contig187,,30,Morus notabilis hypothetical protein partial mRNA,gi|703107056|ref|XM_010100352.1|
+47,CL35Contig30,,46,Morus notabilis Elongation factor Tu partial mRNA,gi|703132831|ref|XM_010106917.1|
+48,CL37Contig99,,126,Morus notabilis hypothetical protein partial mRNA,gi|703101080|ref|XM_010098791.1|
+49,CL40Contig64,,213,"Morus alba var. multicaulis MP(A) gene, promoter region",gi|558261001|gb|KC736064.1|
+50,CL40Contig101,,212,"Morus alba var. multicaulis MP(A) gene, promoter region",gi|558261001|gb|KC736064.1|
+51,CL47Contig1,1,542,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+52,CL47Contig3,1,5170,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+53,CL49Contig15,,689,Morus notabilis hypothetical protein partial mRNA,gi|703135851|ref|XM_010107698.1|
+54,CL50Contig2,1,834,"Batis maritima mitochondrion, complete genome",gi|655168483|gb|KJ820684.1|
+55,CL50Contig3,1,685,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+56,CL52Contig5,,3627,"Humulus lupulus 26S ribosomal RNA gene, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2 and 26S ribosomal RNA gene, complete sequence; and 18S ribosomal RNA gene, partial sequence",gi|7960173|gb|AF223066.1|AF223066
+57,CL53Contig1,1,1301,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+58,CL53Contig2,1,1497,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+59,CL53Contig3,1,1840,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+60,CL54Contig1,,118,Morus notabilis hypothetical protein partial mRNA,gi|703117688|ref|XM_010103134.1|
+61,CL54Contig11,,67,"Apteryx australis mantelli genome assembly AptMant0, scaffold scaffold219",gi|841904436|emb|LK064811.1|
+62,CL86Contig3,1,4002,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+63,CL89Contig1,1,1516,"Nicotiana sylvestris cultivar TW 137 mitochondrion, complete genome",gi|1008910429|gb|KT997964.1|
+64,CL91Contig11,,546,Morus notabilis hypothetical protein partial mRNA,gi|703093514|ref|XM_010096652.1|
+65,CL96Contig1,1,1594,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+66,CL97Contig2,,829,Morus notabilis hypothetical protein partial mRNA,gi|703125094|ref|XM_010104921.1|
+67,CL97Contig9,,54,Morus notabilis hypothetical protein partial mRNA,gi|703125094|ref|XM_010104921.1|
+68,CL101Contig1,,29,"Helicobacter pylori G27, complete genome",gi|208431905|gb|CP001173.1|
+69,CL101Contig9,,58,"Schistosoma curassoni genome assembly S_curassoni_Dakar ,scaffold SCUD_scaffold0005129",gi|689595550|emb|LM070926.1|
+70,CL104Contig1,1,3590,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+71,CL106Contig7,,163,Morus notabilis Pre-mRNA-processing factor 39 partial mRNA,gi|703081855|ref|XM_010093498.1|
+72,CL110Contig1,1,835,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+73,CL110Contig2,1,1889,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+74,CL112Contig5,,665,"Vitis vinifera contig VV78X012470.5, whole genome shotgun sequence",gi|147794564|emb|AM433780.2|
+75,CL112Contig36,,41,"Vitis vinifera contig VV78X134672.4, whole genome shotgun sequence",gi|147853426|emb|AM429333.2|
+76,CL112Contig39,,108,Morus notabilis hypothetical protein partial mRNA,gi|703162371|ref|XM_010114732.1|
+77,CL112Contig40,,181,Morus notabilis hypothetical protein partial mRNA,gi|703114646|ref|XM_010102409.1|
+78,CL114Contig1,1,3040,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+79,CL115Contig1,1,2935,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+80,CL118Contig1,,2330,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+81,CL118Contig2,1,951,"Ajuga reptans mitochondrion, complete genome",gi|558697207|gb|KF709392.1|
+82,CL120Contig2,1,2578,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+83,CL121Contig2,1,3427,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+84,CL124Contig3,1,4900,"Hevea brasiliensis mitochondrial DNA, complete genome",gi|584592121|dbj|AP014526.1|
+85,CL124Contig4,1,2478,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+86,CL124Contig5,1,880,"Morus cathayana NADH dehydrogenase subunit 7 (nad7) gene, intron 2; mitochondrial",gi|325534542|gb|JF340233.1|
+87,CL125Contig13,,92,"PREDICTED: Daucus carota subsp. sativus uncharacterized LOC108212402 (LOC108212402), mRNA",gi|1040857313|ref|XM_017384129.1|
+88,CL125Contig23,,126,Morus notabilis hypothetical protein partial mRNA,gi|703123149|ref|XM_010104444.1|
+89,CL125Contig26,,152,Morus notabilis hypothetical protein partial mRNA,gi|703097130|ref|XM_010097730.1|
+90,CL126Contig2,1,2121,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+91,CL131Contig2,1,2400,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+92,CL135Contig1,,118,Morus notabilis hypothetical protein partial mRNA,gi|703084041|ref|XM_010094066.1|
+93,CL135Contig3,,114,Morus notabilis E3 ubiquitin-protein ligase partial mRNA,gi|703129064|ref|XM_010105973.1|
+94,CL135Contig27,,247,Morus notabilis Anthranilate synthase component I-2 partial mRNA,gi|703137773|ref|XM_010108248.1|
+95,CL135Contig33,,81,Morus notabilis Geranylgeranyl transferase type-2 subunit beta partial mRNA,gi|703095725|ref|XM_010097315.1|
+96,CL137Contig7,,30,"Vitis vinifera contig VV78X167814.5, whole genome shotgun sequence",gi|147779579|emb|AM452580.2|
+97,CL160Contig38,,161,Morus notabilis hypothetical protein partial mRNA,gi|703094319|ref|XM_010096916.1|
+98,CL160Contig39,,57,Morus notabilis Putative tRNA pseudouridine synthase partial mRNA,gi|703138288|ref|XM_010108399.1|
+99,CL166Contig1,1,2037,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+100,CL169Contig1,,1219,"Ficus tikoua 26S ribosomal RNA gene, partial sequence",gi|336239108|gb|JF317386.1|
+101,CL176Contig24,,341,"Olea europaea isolate 85019_A retrotransposon copia-type, complete sequence",gi|729055753|gb|KM577378.1|
+102,CL178Contig29,,152,Morus notabilis hypothetical protein partial mRNA,gi|703107056|ref|XM_010100352.1|
+103,CL178Contig31,,133,Morus notabilis MLO-like protein 3 partial mRNA,gi|703128512|ref|XM_010105815.1|
+104,CL180Contig2,,1247,Morus notabilis 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase partial mRNA,gi|703126110|ref|XM_010105180.1|
+105,CL180Contig5,,334,Morus notabilis 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase partial mRNA,gi|703126110|ref|XM_010105180.1|
+106,CL181Contig1,1,617,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+107,CL181Contig2,,833,"Heuchera parviflora var. saurensis voucher Folk 97 (OS), complete genome",gi|927682185|gb|KR559021.1|
+108,CL191Contig1,,184,Morus notabilis hypothetical protein partial mRNA,gi|703125094|ref|XM_010104921.1|
+109,CL196Contig1,1,1443,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+110,CL202Contig27,,28,"Oryza sativa Japonica Group DNA, chromosome 3, cultivar: Nipponbare, complete sequence",gi|937906879|dbj|AP014959.1|
+111,CL203Contig1,1,2199,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+112,CL239Contig2,,305,"Vitis vinifera contig VV78X263984.4, whole genome shotgun sequence",gi|123693049|emb|AM427612.1|
+113,CL240Contig1,1,762,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+114,CL248Contig1,1,219,"Phoenix dactylifera mitochondrion, complete genome",gi|343478410|gb|JN375330.1|
+115,CL252Contig1,1,1387,"Vitis vinifera strain PN40024 mitochondrion, partial genome",gi|239764707|gb|GQ220323.1|
+116,CL261Contig1,,35,"Ascaris lumbricoides genome assembly A_lumbricoides_Ecuador_v1_5_4 ,scaffold ALUE_scaffold0001719",gi|687649972|emb|LK873579.1|
+117,CL261Contig4,,35,"Mus musculus targeted non-conditional, lacZ-tagged mutant allele Btbd9:tm1e(EUCOMM)Wtsi; transgenic",gi|354799399|gb|JN963900.1|
+118,CL264Contig1,1,1365,"Vitis vinifera strain PN40024 mitochondrion, partial genome",gi|239764707|gb|GQ220323.1|
+119,CL268Contig1,,747,Morus notabilis hypothetical protein partial mRNA,gi|703084939|ref|XM_010094302.1|
+120,CL276Contig8,,48,"Populus trichocarpa retrotransposon PT1-Reina, complete sequence",gi|260184423|gb|GQ294568.1|
+121,CL281Contig2,1,961,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+122,CL285Contig1,1,625,"Malus hupehensis var. mengshanensis mitochondrion, complete genome",gi|939462352|gb|KR534606.1|
+123,CL291Contig1,1,657,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+124,CL297Contig5,,73,"Solanum lycopersicum chromosome ch09, complete genome",gi|663681331|emb|HG975521.1|
+125,CL303Contig1,,46,Morus notabilis hypothetical protein partial mRNA,gi|703067639|ref|XM_010089720.1|
+126,CL305Contig5,,201,"Arabis alpina genome assembly, chromosome: chr7",gi|1126731859|emb|LT669794.1|
+127,CL305Contig6,,145,"Vitis vinifera contig VV78X002920.8, whole genome shotgun sequence",gi|147783522|emb|AM475547.2|
+128,CL337Contig1,1,621,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+129,CL378Contig9,,141,"Vitis vinifera, whole genome shotgun sequence, contig VV78X139936.10, clone ENTAV 115",gi|123714793|emb|AM451524.1|
+130,CL387Contig2,,176,Morus notabilis Mitogen-activated protein kinase kinase kinase A partial mRNA,gi|703095588|ref|XM_010097279.1|
+131,CL390Contig1,,220,Morus notabilis hypothetical protein partial mRNA,gi|703073150|ref|XM_010091169.1|
+132,CL396Contig3,,295,Morus notabilis hypothetical protein partial mRNA,gi|703107291|ref|XM_010100409.1|
+133,CL421Contig2,,356,"Vitis vinifera, whole genome shotgun sequence, contig VV78X140743.7, clone ENTAV 115",gi|123715077|emb|AM481576.1|
+134,CL426Contig2,,65,Morus notabilis Rac-like GTP-binding protein ARAC3 partial mRNA,gi|703110113|ref|XM_010101193.1|
+135,CL470Contig1,1,497,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+136,CL482Contig2,,111,"Vitis vinifera contig VV78X078339.7, whole genome shotgun sequence",gi|147787421|emb|AM423679.2|
+137,CL584Contig1,,69,"PREDICTED: Erythranthe guttatus uncharacterized LOC105957167 (LOC105957167), mRNA",gi|848871955|ref|XM_012981088.1|
+138,CL789Contig2,,30,"PREDICTED: Xiphophorus maculatus dedicator of cytokinesis 4 (dock4), mRNA",gi|941778653|ref|XM_014468770.1|
+139,CL10Contig22,,334,"Vitis vinifera contig VV78X067469.2, whole genome shotgun sequence",gi|147806365|emb|AM449753.2|
+140,CL10Contig53,,419,"Vitis vinifera, whole genome shotgun sequence, contig VV78X093651.34, clone ENTAV 115",gi|123675749|emb|AM482017.1|
+141,CL10Contig54,,356,"Vitis vinifera contig VV78X067469.2, whole genome shotgun sequence",gi|147806365|emb|AM449753.2|
+142,CL10Contig71,,364,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703067329|ref|XM_010089639.1|
+143,CL10Contig78,,179,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703144319|ref|XM_010109957.1|
+144,CL10Contig100,,434,Morus notabilis Serine/threonine-protein kinase ATM partial mRNA,gi|703123489|ref|XM_010104529.1|
+145,CL10Contig114,,382,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703144319|ref|XM_010109957.1|
+146,CL10Contig134,,326,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703144319|ref|XM_010109957.1|
+147,CL10Contig163,,809,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703144319|ref|XM_010109957.1|
+148,CL11Contig99,,86,"Vigna angularis var. angularis DNA, chromosome 9, almost complete sequence, cultivar: Shumari",gi|965610582|dbj|AP015042.1|
+149,CL11Contig140,,595,Morus notabilis hypothetical protein partial mRNA,gi|703067306|ref|XM_010089633.1|
+150,CL11Contig191,,628,Morus notabilis Transposon Ty3-I Gag-Pol polyprotein partial mRNA,gi|703104085|ref|XM_010099610.1|
+151,CL11Contig250,,187,Morus notabilis hypothetical protein partial mRNA,gi|703067306|ref|XM_010089633.1|
+152,CL11Contig257,,242,Morus notabilis Retrovirus-related Pol polyprotein from transposon 297 partial mRNA,gi|703130508|ref|XM_010106323.1|
+153,CL11Contig264,,679,Morus notabilis Transposon Ty3-I Gag-Pol polyprotein partial mRNA,gi|703104085|ref|XM_010099610.1|
+154,CL11Contig291,,542,Morus notabilis Transposon Ty3-I Gag-Pol polyprotein partial mRNA,gi|703104085|ref|XM_010099610.1|
+155,CL15Contig28,,34,"Zebrafish DNA sequence from clone CH73-67K9 in linkage group 25, complete sequence",gi|237644147|emb|CU928014.8|
+156,CL15Contig31,,218,Morus notabilis hypothetical protein partial mRNA,gi|703100869|ref|XM_010098732.1|
+157,CL55Contig1,1,329,"Vitis vinifera strain PN40024 mitochondrion, partial genome",gi|239764743|gb|GQ220324.1|
+158,CL55Contig2,1,603,"Nicotiana sylvestris cultivar TW 137 mitochondrion, complete genome",gi|1008910429|gb|KT997964.1|
+159,CL55Contig4,1,4687,"Morus alba var. atropurpurea chloroplast, complete genome",gi|1028325836|gb|KU355276.1|
+160,CL56Contig34,,689,Morus notabilis Transposon Ty3-I Gag-Pol polyprotein partial mRNA,gi|703131619|ref|XM_010106618.1|
+161,CL56Contig81,,228,Morus notabilis hypothetical protein partial mRNA,gi|703123435|ref|XM_010104517.1|
+162,CL56Contig93,,119,Morus notabilis Cleavage and polyadenylation specificity factor subunit 3-II partial mRNA,gi|703068286|ref|XM_010089896.1|
+163,CL56Contig94,,101,Morus notabilis hypothetical protein partial mRNA,gi|703125089|ref|XM_010104920.1|
+164,CL57Contig1,1,1117,"Citrullus lanatus mitochondrion, complete genome",gi|259156760|gb|GQ856147.1|
+165,CL57Contig2,1,2311,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+166,CL57Contig3,1,1812,"Hesperelaea palmeri voucher E. Palmer 81 (MO) mitochondrion, complete genome",gi|1064265668|gb|KX545367.1|
+167,CL58Contig2,1,1296,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+168,CL58Contig3,1,712,"Helianthus annuus mitochondrion, complete genome",gi|571031384|gb|KF815390.1|
+169,CL58Contig5,1,975,"Hesperelaea palmeri voucher E. Palmer 81 (MO) mitochondrion, complete genome",gi|1064265668|gb|KX545367.1|
+170,CL58Contig6,1,609,"Cocos nucifera mitochondrion, complete genome",gi|1083262249|gb|KX028885.1|
+171,CL58Contig8,1,558,"Capsicum annuum cultivar CMS line FS4401 mitochondrion, complete genome",gi|667751705|gb|KJ865409.1|
+172,CL59Contig2,,31,"PREDICTED: Poecilia mexicana uncharacterized LOC106918717 (LOC106918717), mRNA",gi|961855639|ref|XM_014988690.1|
+173,CL59Contig3,,36,"Mus musculus BAC clone RP24-493G21 from chromosome 9, complete sequence",gi|81158211|gb|AC169127.3|
+174,CL59Contig5,,55,"PREDICTED: Gossypium arboreum uncharacterized LOC108456978 (LOC108456978), transcript variant X6, mRNA",gi|1050563257|ref|XM_017755798.1|
+175,CL59Contig9,,596,Morus notabilis hypothetical protein partial mRNA,gi|703159852|ref|XM_010114051.1|
+176,CL59Contig11,,98,"PREDICTED: Juglans regia uncharacterized LOC108983424 (LOC108983424), partial mRNA",gi|1098809208|ref|XM_018955045.1|
+177,CL60Contig86,,132,"Cucumis melo genomic scaffold, unassembled_sequence40504",gi|733603313|emb|LN693048.1|
+178,CL60Contig181,,342,Morus notabilis putative LRR receptor-like serine/threonine-protein kinase partial mRNA,gi|703105148|ref|XM_010099876.1|
+179,CL60Contig198,,106,"Solanum lycopersicum chromosome ch01, complete genome",gi|663680609|emb|HG975513.1|
+180,CL61Contig19,1,1367,"Gossypium hirsutum mitochondrion, complete genome",gi|397911863|gb|JX065074.1|
+181,CL61Contig34,,238,Morus notabilis MLP-like protein 328 partial mRNA,gi|703153183|ref|XM_010112313.1|
+182,CL61Contig48,1,81,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+183,CL61Contig70,,38,"Populus trichocarpa clone POP033-J16, complete sequence",gi|166064084|gb|AC216840.1|
+184,CL63Contig1,1,229,"Gossypium hirsutum mitochondrion, complete genome",gi|397911863|gb|JX065074.1|
+185,CL63Contig2,1,251,"Allium cepa mitochondrion, complete genome",gi|1022945697|gb|KU318712.1|
+186,CL63Contig3,1,698,"Cocos nucifera mitochondrion, complete genome",gi|1083262249|gb|KX028885.1|
+187,CL65Contig45,,152,Morus notabilis hypothetical protein partial mRNA,gi|703087323|ref|XM_010094939.1|
+188,CL65Contig62,,133,Morus notabilis hypothetical protein partial mRNA,gi|703087323|ref|XM_010094939.1|
+189,CL70Contig6,,182,"Olea europaea isolate 94652_B retrotransposon gypsy-type, complete sequence",gi|729055915|gb|KM577540.1|
+190,CL70Contig9,,370,"Morus bombycis gypsy-type retrotransposon MBRE3 DNA, partial cds",gi|13559336|dbj|AB033263.1|
+191,CL77Contig3,,5486,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+192,CL78Contig1,1,3105,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+193,CL78Contig2,1,3676,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+194,CL80Contig1,,924,Morus notabilis Ribosomal protein S4 partial mRNA,gi|703100716|ref|XM_010098691.1|
+195,CL80Contig2,1,659,"Ricinus communis mitochondrion, complete genome",gi|322394252|gb|HQ874649.1|
+196,CL82Contig1,1,1218,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+197,CL82Contig2,1,1623,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+198,CL83Contig23,,153,Morus notabilis Phenylalanine ammonia-lyase 1 partial mRNA,gi|703141496|ref|XM_010109215.1|
+199,CL83Contig27,,287,"Olea europaea isolate 94112_B retrotransposon copia-type, complete sequence",gi|729055769|gb|KM577394.1|
+200,CL83Contig109,,137,Morus notabilis hypothetical protein partial mRNA,gi|703151046|ref|XM_010111714.1|
+201,CL83Contig113,,498,"Gossypioides kirkii clone GKH094L21-jhc, complete sequence",gi|312032528|gb|AC243095.1|
+202,CL83Contig118,,176,"Gossypium raimondii clone GR__Ba0096K16-hvi, complete sequence",gi|312032552|gb|AC243119.1|
+203,CL85Contig1,1,1216,"Daucus carota subsp. sativus mitochondrion, complete genome",gi|374081932|gb|JQ248574.1|
+204,CL85Contig3,1,1604,"Cannabis sativa mitochondrion, complete genome",gi|1011751013|gb|KU310670.1|
+205,CL87Contig1,,107,Morus notabilis hypothetical protein partial mRNA,gi|703080766|ref|XM_010093207.1|
+206,CL87Contig2,,104,Morus notabilis hypothetical protein partial mRNA,gi|703064933|ref|XM_010089025.1|
+207,CL87Contig5,1,1077,"Vitis vinifera strain PN40024 mitochondrion, partial genome",gi|239764707|gb|GQ220323.1|
+208,CL88Contig1,1,3312,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+209,CL130Contig6,,421,Morus notabilis hypothetical protein partial mRNA,gi|703134352|ref|XM_010107317.1|
+210,CL130Contig11,,87,Morus notabilis Putative disease resistance RPP13-like protein 1 partial mRNA,gi|703120495|ref|XM_010103811.1|
+211,CL130Contig19,,446,Morus notabilis Putative disease resistance RPP13-like protein 1 partial mRNA,gi|703120495|ref|XM_010103811.1|
+212,CL130Contig34,,54,Morus notabilis Putative disease resistance RPP13-like protein 1 partial mRNA,gi|703120495|ref|XM_010103811.1|
+213,CL133Contig1,,2534,"Morus cathayana plastid, complete genome",gi|1079707600|gb|KU981118.1|
+214,CL136Contig34,,169,Morus notabilis hypothetical protein partial mRNA,gi|703077374|ref|XM_010092275.1|
+215,CL139Contig1,1,1185,"Batis maritima mitochondrion, complete genome",gi|655168483|gb|KJ820684.1|
+216,CL141Contig7,,377,Morus notabilis hypothetical protein partial mRNA,gi|703124561|ref|XM_010104782.1|
+217,CL145Contig1,1,2412,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+218,CL149Contig1,1,1434,"Ricinus communis mitochondrion, complete genome",gi|322394252|gb|HQ874649.1|
+219,CL151Contig2,1,1684,"Amborella trichopoda chromosome I mitochondrion, complete sequence",gi|557954279|gb|KF754803.1|
+220,CL153Contig10,,697,Morus notabilis hypothetical protein partial mRNA,gi|703093556|ref|XM_010096666.1|
+221,CL155Contig19,,1397,"Vitis vinifera, whole genome shotgun sequence, contig VV78X093651.34, clone ENTAV 115",gi|123675749|emb|AM482017.1|
+222,CL158Contig1,1,2731,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+223,CL159Contig1,1,1259,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+224,CL161Contig1,1,1242,"Phoenix dactylifera mitochondrion, complete genome",gi|343478410|gb|JN375330.1|
+225,CL164Contig1,,515,Morus notabilis hypothetical protein partial mRNA,gi|703134726|ref|XM_010107406.1|
+226,CL167Contig1,1,2442,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+227,CL170Contig44,,48,"Populus trichocarpa hypothetical protein (POPTR_0681s00200g) mRNA, complete cds",gi|566255086|ref|XM_006387616.1|
+228,CL171Contig1,1,1659,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+229,CL173Contig1,1,1911,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+230,CL177Contig16,,55,Morus notabilis hypothetical protein partial mRNA,gi|703071350|ref|XM_010090707.1|
+231,CL184Contig24,,33,Spirodela polyrhiza strain 9509 chromosome 1 sequence,gi|1132439728|gb|CP019093.1|
+232,CL184Contig60,,750,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703163466|ref|XM_010115050.1|
+233,CL186Contig29,,347,Morus notabilis hypothetical protein partial mRNA,gi|703154429|ref|XM_010112638.1|
+234,CL190Contig3,,30,"Canis Familiaris chromosome 22, clone XX-38A2, complete sequence",gi|110797358|gb|AC183587.11|
+235,CL193Contig4,,1179,"Vitis vinifera contig VV78X051777.15, whole genome shotgun sequence",gi|147790502|emb|AM453360.2|
+236,CL195Contig1,1,1241,"Lotus japonicus strain MG-20 mitochondrion, complete genome",gi|387812449|gb|JN872551.2|
+237,CL198Contig1,1,517,"Butomus umbellatus mitochondrion, complete genome",gi|426261815|gb|KC208619.1|
+238,CL200Contig1,1,441,"Allium cepa mitochondrion, complete genome",gi|1022945697|gb|KU318712.1|
+239,CL205Contig1,1,1818,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+240,CL206Contig7,,122,Morus notabilis hypothetical protein partial mRNA,gi|703132404|ref|XM_010106814.1|
+241,CL214Contig1,1,709,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+242,CL215Contig20,,461,"Populus trichocarpa hypothetical protein (POPTR_0004s16480g) mRNA, complete cds",gi|566166868|ref|XM_006384451.1|
+243,CL216Contig8,,124,Morus notabilis hypothetical protein partial mRNA,gi|703104298|ref|XM_010099673.1|
+244,CL221Contig8,,50,"Populus trichocarpa clone POP003-O05, complete sequence",gi|158420586|gb|AC212921.1|
+245,CL221Contig12,,56,Morus notabilis hypothetical protein partial mRNA,gi|703089138|ref|XM_010095416.1|
+246,CL224Contig1,,1260,"Heuchera parviflora var. saurensis voucher Folk 97 (OS), complete genome",gi|927682185|gb|KR559021.1|
+247,CL228Contig1,,184,Morus notabilis hypothetical protein partial mRNA,gi|703152016|ref|XM_010111968.1|
+248,CL228Contig5,,115,Morus alba microsatellite B2-10 sequence,gi|393889106|gb|JX193482.1|
+249,CL232Contig1,1,1327,"Gossypium harknessii mitochondrion, complete genome",gi|409974865|gb|JX536494.1|
+250,CL234Contig1,1,635,"Ricinus communis mitochondrion, complete genome",gi|322394252|gb|HQ874649.1|
+251,CL237Contig1,1,434,"Mimulus guttatus mitochondrion, complete genome",gi|340007640|gb|JN098455.1|
+252,CL243Contig1,,1314,"Heuchera parviflora var. saurensis voucher Folk 97 (OS), complete genome",gi|927682185|gb|KR559021.1|
+253,CL247Contig1,,32,"PREDICTED: Nicotiana tabacum uncharacterized LOC107777508 (LOC107777508), mRNA",gi|1025074940|ref|XM_016597548.1|
+254,CL254Contig10,,371,"Vitis vinifera contig VV78X263984.4, whole genome shotgun sequence",gi|123693049|emb|AM427612.1|
+255,CL256Contig1,,798,"Morus nigra 26S ribosomal RNA gene, partial sequence",gi|19919673|gb|AF479232.1|
+256,CL262Contig1,1,462,"Vitis vinifera strain PN40024 mitochondrion, partial genome",gi|239764757|gb|GQ220325.1|
+257,CL262Contig2,1,1015,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+258,CL267Contig5,,799,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703163466|ref|XM_010115050.1|
+259,CL280Contig1,1,700,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+260,CL288Contig2,,88,"Theobroma cacao genome assembly, chromosome: I",gi|1042907536|emb|LT594788.1|
+261,CL288Contig3,,241,Morus notabilis hypothetical protein partial mRNA,gi|703142269|ref|XM_010109410.1|
+262,CL309Contig1,1,989,"Gossypium barbadense mitochondrion, complete genome",gi|887515730|gb|KP898249.1|
+263,CL312Contig3,,38,"Vitis vinifera contig VV78X026580.4, whole genome shotgun sequence",gi|147802339|emb|AM469811.2|
+264,CL321Contig1,,58,Morus notabilis hypothetical protein partial mRNA,gi|703156404|ref|XM_010113133.1|
+265,CL345Contig1,1,658,"Hevea brasiliensis mitochondrial DNA, complete genome",gi|584592121|dbj|AP014526.1|
+266,CL355Contig1,1,540,"Zelkova serrata maturase (matR) gene, partial cds; mitochondrial gene for mitochondrial product",gi|33326454|gb|AF520089.1|
+267,CL405Contig1,,625,Morus notabilis hypothetical protein partial mRNA,gi|703153478|ref|XM_010112389.1|
+268,CL420Contig1,1,479,"Cannabis sativa mitochondrion, complete genome",gi|1011751013|gb|KU310670.1|
+269,CL452Contig2,,59,"Cucumis melo genomic chromosome, chr_10",gi|733578317|emb|LN713264.1|
+270,CL458Contig1,1,264,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+271,CL481Contig4,,525,Morus notabilis Transposon Ty3-I Gag-Pol polyprotein partial mRNA,gi|703157993|ref|XM_010113570.1|
+272,CL507Contig3,,59,"Vitis vinifera contig VV78X170269.6, whole genome shotgun sequence",gi|147859845|emb|AM469750.2|
+273,CL530Contig1,,212,"Vitis vinifera contig VV78X192113.3, whole genome shotgun sequence",gi|147845418|emb|AM463065.2|
+274,CL558Contig1,,496,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703163466|ref|XM_010115050.1|
+275,CL655Contig2,1,432,"Nicotiana sylvestris cultivar TW 137 mitochondrion, complete genome",gi|1008910429|gb|KT997964.1|
+276,CL4Contig386,,414,Morus notabilis Retrovirus-related Pol polyprotein from transposon 297 partial mRNA,gi|703130508|ref|XM_010106323.1|
+277,CL4Contig421,,113,Morus indica microsatellite MSCP119-C sequence,gi|459172006|gb|KC408270.1|
+278,CL4Contig453,,97,Morus notabilis hypothetical protein partial mRNA,gi|703092401|ref|XM_010096321.1|
+279,CL4Contig479,,501,Morus notabilis hypothetical protein partial mRNA,gi|703065904|ref|XM_010089271.1|
+280,CL4Contig506,,429,Morus notabilis hypothetical protein partial mRNA,gi|703129219|ref|XM_010106008.1|
+281,CL4Contig521,,81,Morus notabilis Zinc finger CCCH domain-containing protein 64 partial mRNA,gi|703095523|ref|XM_010097259.1|
+282,CL4Contig532,,71,Morus notabilis hypothetical protein partial mRNA,gi|703072962|ref|XM_010091120.1|
+283,CL5Contig173,,93,Morus notabilis hypothetical protein partial mRNA,gi|703098183|ref|XM_010098012.1|
+284,CL6Contig58,,161,Morus notabilis hypothetical protein partial mRNA,gi|703087100|ref|XM_010094881.1|
+285,CL6Contig80,,98,Morus notabilis hypothetical protein partial mRNA,gi|703100823|ref|XM_010098719.1|
+286,CL6Contig94,,83,Morus notabilis hypothetical protein partial mRNA,gi|703138556|ref|XM_010108468.1|
+287,CL6Contig464,,77,Morus notabilis hypothetical protein partial mRNA,gi|703131731|ref|XM_010106646.1|
+288,CL7Contig94,,30,"Solanum lycopersicum chromosome ch01, complete genome",gi|663680609|emb|HG975513.1|
+289,CL7Contig193,,29,"Callithrix jacchus BAC clone CH259-285C16 from chromosome unknown, complete sequence",gi|347361048|gb|AC243298.3|
+290,CL7Contig209,,29,Homo sapiens Xp22 PAC RPCI1-5G11 (from Roswell Park Cancer Center) complete sequence,gi|2804307|gb|AC002369.1|AC002369
+291,CL7Contig248,,29,"Callithrix jacchus BAC clone CH259-285C16 from chromosome unknown, complete sequence",gi|347361048|gb|AC243298.3|
+292,CL7Contig298,,29,Homo sapiens Xp22 PAC RPCI1-5G11 (from Roswell Park Cancer Center) complete sequence,gi|2804307|gb|AC002369.1|AC002369
+293,CL13Contig24,,453,"Morus notabilis 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase 2 partial mRNA",gi|703142244|ref|XM_010109404.1|
+294,CL13Contig27,,1480,"Morus alba 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGR) gene, complete cds",gi|4140370|gb|U43711.1|MAU43711
+295,CL13Contig28,,76,Morus notabilis Putative AC9 transposase partial mRNA,gi|703117157|ref|XM_010103014.1|
+296,CL13Contig30,,455,Morus notabilis hypothetical protein partial mRNA,gi|703140643|ref|XM_010108972.1|
+297,CL13Contig38,,921,Morus notabilis hypothetical protein partial mRNA,gi|703140643|ref|XM_010108972.1|
+298,CL14Contig41,,95,Morus notabilis LRR receptor-like serine/threonine-protein kinase FLS2 partial mRNA,gi|703101170|ref|XM_010098814.1|
+299,CL14Contig87,,115,Morus notabilis Zeaxanthin epoxidase partial mRNA,gi|703070217|ref|XM_010090430.1|
+300,CL17Contig377,,43,"Vitis vinifera contig VV78X000046.13, whole genome shotgun sequence",gi|147864612|emb|AM486170.2|
+301,CL17Contig615,,57,Morus notabilis Putative ALA-interacting subunit 2 partial mRNA,gi|703063653|ref|XM_010088708.1|
+302,CL19Contig159,,114,Morus notabilis hypothetical protein partial mRNA,gi|703130836|ref|XM_010106431.1|
+303,CL19Contig233,,63,Morus notabilis hypothetical protein partial mRNA,gi|703092320|ref|XM_010096297.1|
+304,CL19Contig239,,74,Morus notabilis hypothetical protein partial mRNA,gi|703112689|ref|XM_010101883.1|
+305,CL19Contig257,,64,Morus notabilis hypothetical protein partial mRNA,gi|703130836|ref|XM_010106431.1|
+306,CL20Contig46,,28,"Toxocara canis genome assembly T_canis_Equador ,scaffold TCNE_scaffold0007778",gi|686698838|emb|LM046057.1|
+307,CL20Contig72,,35,Morus notabilis hypothetical protein partial mRNA,gi|703092320|ref|XM_010096297.1|
+308,CL23Contig34,,105,Morus notabilis hypothetical protein partial mRNA,gi|703089304|ref|XM_010095465.1|
+309,CL23Contig53,,29,"Pan troglodytes BAC clone RP43-170F9 from chromosome 7, complete sequence",gi|45736891|gb|AC145991.2|
+310,CL23Contig63,,174,Morus notabilis hypothetical protein partial mRNA,gi|703089304|ref|XM_010095465.1|
+311,CL23Contig100,,42,"Vitis vinifera contig VV78X130903.4, whole genome shotgun sequence",gi|147832620|emb|AM468002.2|
+312,CL23Contig109,,63,Morus notabilis hypothetical protein partial mRNA,gi|703122568|ref|XM_010104303.1|
+313,CL23Contig120,,93,Morus notabilis hypothetical protein partial mRNA,gi|703152360|ref|XM_010112085.1|
+314,CL24Contig48,,289,Morus notabilis hypothetical protein partial mRNA,gi|703134767|ref|XM_010107416.1|
+315,CL24Contig50,,261,Morus notabilis hypothetical protein partial mRNA,gi|703134767|ref|XM_010107416.1|
+316,CL24Contig176,,171,Morus notabilis hypothetical protein partial mRNA,gi|703109075|ref|XM_010100896.1|
+317,CL26Contig71,,359,Morus indica microsatellite MSCP158-C sequence,gi|459172039|gb|KC408303.1|
+318,CL26Contig86,,372,Morus indica microsatellite MSCP158-C sequence,gi|459172039|gb|KC408303.1|
+319,CL26Contig110,,111,Morus indica microsatellite MSCP158-C sequence,gi|459172039|gb|KC408303.1|
+320,CL26Contig112,,249,Morus indica microsatellite MSCP158-C sequence,gi|459172039|gb|KC408303.1|
+321,CL26Contig118,,232,Morus indica microsatellite MSCP158-C sequence,gi|459172039|gb|KC408303.1|
+322,CL26Contig141,,245,Morus indica microsatellite MSCP158-C sequence,gi|459172039|gb|KC408303.1|
+323,CL28Contig16,,62,Morus notabilis ADP-ribosylation factor GTPase-activating protein AGD4 partial mRNA,gi|703159535|ref|XM_010113972.1|
+324,CL36Contig75,,142,Morus indica microsatellite MSCP257-C sequence,gi|532808248|gb|KF031006.1|
+325,CL38Contig29,,236,"Citrus clementina hypothetical protein (CICLE_v10010285mg) mRNA, partial cds",gi|567920187|ref|XM_006452037.1|
+326,CL38Contig37,,139,"Vitis vinifera contig VV78X233741.3, whole genome shotgun sequence",gi|147832267|emb|AM489348.2|
+327,CL38Contig131,,510,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703107203|ref|XM_010100390.1|
+328,CL38Contig161,,36,"Solanum pennellii chromosome ch12, complete genome",gi|663673457|emb|HG975451.1|
+329,CL38Contig172,,266,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703107203|ref|XM_010100390.1|
+330,CL38Contig179,,557,Morus notabilis Retrovirus-related Pol polyprotein from transposon TNT 1-94 partial mRNA,gi|703107203|ref|XM_010100390.1|
+331,CL39Contig12,,53,"Populus trichocarpa clone POP033-J16, complete sequence",gi|166064084|gb|AC216840.1|
+332,CL39Contig44,,56,"Erythranthe guttata clone MGBa-9K21, complete sequence",gi|147462065|gb|AC182578.2|
+333,CL39Contig84,,185,Morus notabilis hypothetical protein partial mRNA,gi|703097653|ref|XM_010097871.1|
+334,CL39Contig115,,31,"Theobroma cacao genome assembly, chromosome: III",gi|1042907539|emb|LT594790.1|
+335,CL41Contig1,,634,"Heuchera parviflora var. saurensis voucher Folk 97 (OS), complete genome",gi|927682185|gb|KR559021.1|
+336,CL41Contig3,,6586,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+337,CL42Contig421,,63,"Arabis alpina genome assembly, chromosome: chr3",gi|1126731460|emb|LT669790.1|
+338,CL43Contig93,,400,Morus notabilis Protein SCO1-1-like protein partial mRNA,gi|703128987|ref|XM_010105948.1|
+339,CL44Contig42,,82,"Panax ginseng clone BAC PgH008D23, complete sequence",gi|523458075|gb|KF357943.1|
+340,CL44Contig44,,387,Morus notabilis Protein BONZAI 2 partial mRNA,gi|703134281|ref|XM_010107300.1|
+341,CL44Contig46,,214,Morus notabilis Protein BONZAI 2 partial mRNA,gi|703134281|ref|XM_010107300.1|
+342,CL45Contig1,1,1388,"Vitis vinifera strain PN40024 mitochondrion, partial genome",gi|239764707|gb|GQ220323.1|
+343,CL45Contig3,,212,Morus notabilis hypothetical protein partial mRNA,gi|703118657|ref|XM_010103353.1|
+344,CL45Contig4,1,1282,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+345,CL46Contig13,,150,"Vitis vinifera contig VV78X174695.8, whole genome shotgun sequence",gi|147816205|emb|AM480970.2|
+346,CL46Contig17,,633,Morus notabilis hypothetical protein partial mRNA,gi|703125094|ref|XM_010104921.1|
+347,CL46Contig28,,28,"Solanum lycopersicum DNA, LTR retrotransposon:CopiaSL_34, complete sequence",gi|1040718608|dbj|LC012674.1|
+348,CL48Contig70,,101,Morus notabilis hypothetical protein partial mRNA,gi|703073756|ref|XM_010091326.1|
+349,CL48Contig116,,108,Morus notabilis hypothetical protein partial mRNA,gi|703073756|ref|XM_010091326.1|
+350,CL51Contig25,,283,"Morus alba DNA, tandem repeat sequence MURES1",gi|187761605|dbj|AB243603.1|
+351,CL51Contig42,,165,Morus notabilis UDP-glycosyltransferase 87A2 partial mRNA,gi|703109988|ref|XM_010101154.1|
+352,CL62Contig1,1,831,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+353,CL62Contig2,,153,Morus notabilis hypothetical protein partial mRNA,gi|703159992|ref|XM_010114087.1|
+354,CL62Contig3,1,382,"Ricinus communis mitochondrion, complete genome",gi|322394252|gb|HQ874649.1|
+355,CL62Contig4,1,969,"Nicotiana sylvestris cultivar TW 137 mitochondrion, complete genome",gi|1008910429|gb|KT997964.1|
+356,CL62Contig5,1,604,"Boea hygrometrica mitochondrion, complete genome",gi|340549473|gb|JN107812.1|
+357,CL62Contig7,1,1702,"Rhazya stricta mitochondrion, complete genome",gi|645929274|gb|KJ485850.1|
+358,CL64Contig2,1,5465,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+359,CL66Contig1,1,5996,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+360,CL67Contig37,,418,Morus notabilis Protein IQ-DOMAIN 32 partial mRNA,gi|703133005|ref|XM_010106958.1|
+361,CL67Contig61,,189,Morus notabilis hypothetical protein partial mRNA,gi|703135010|ref|XM_010107476.1|
+362,CL67Contig95,,525,Morus notabilis Enhancer of mRNA-decapping protein 4 partial mRNA,gi|703098880|ref|XM_010098201.1|
+363,CL69Contig1,1,290,"Ficus racemosa chloroplast, complete genome",gi|937500924|gb|KT368151.1|
+364,CL69Contig2,1,3441,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+365,CL69Contig5,,1110,"Morus cathayana plastid, complete genome",gi|1079707600|gb|KU981118.1|
+366,CL71Contig2,1,731,"Cocos nucifera mitochondrion, complete genome",gi|1083262249|gb|KX028885.1|
+367,CL71Contig3,1,411,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+368,CL71Contig4,,538,"Solanum pennellii chromosome ch09, complete genome",gi|663673454|emb|HG975448.1|
+369,CL71Contig5,,642,"PREDICTED: Ricinus communis uncharacterized LOC8269562 (LOC8269562), mRNA",gi|1000936780|ref|XM_015728648.1|
+370,CL72Contig2,1,6134,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+371,CL74Contig4,,430,Morus notabilis hypothetical protein partial mRNA,gi|703135272|ref|XM_010107530.1|
+372,CL74Contig14,,284,Morus notabilis hypothetical protein partial mRNA,gi|703140864|ref|XM_010109039.1|
+373,CL74Contig28,,520,Morus notabilis hypothetical protein partial mRNA,gi|703140866|ref|XM_010109040.1|
+374,CL75Contig1,1,4295,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+375,CL76Contig11,,29,"Canis Familiaris chromosome 2, clone XX-361N13, complete sequence",gi|116174951|gb|AC188633.5|
+376,CL76Contig15,,31,"Canis familiaris chromosome 14, clone XX-46G21, complete sequence",gi|190341142|gb|AC184816.5|
+377,CL79Contig56,,30,"PREDICTED: Fragaria vesca subsp. vesca putative nuclease HARBI1 (LOC101311745), mRNA",gi|764559053|ref|XM_011462675.1|
+378,CL79Contig81,,31,Morus notabilis hypothetical protein partial mRNA,gi|703118080|ref|XM_010103221.1|
+379,CL79Contig95,,165,Morus notabilis Phosphoribosylaminoimidazole carboxylase partial mRNA,gi|703142297|ref|XM_010109418.1|
+380,CL81Contig23,,142,Morus notabilis hypothetical protein partial mRNA,gi|703127318|ref|XM_010105498.1|
+381,CL81Contig59,,29,"Callithrix jacchus BAC clone CH259-91H12 from chromosome unknown, complete sequence",gi|148746482|gb|AC188405.3|
+382,CL81Contig98,,629,Morus notabilis hypothetical protein partial mRNA,gi|703127322|ref|XM_010105499.1|
+383,CL84Contig10,,196,Morus notabilis hypothetical protein partial mRNA,gi|703140864|ref|XM_010109039.1|
+384,CL90Contig1,1,2182,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+385,CL92Contig1,1,614,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+386,CL92Contig2,1,2651,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+387,CL93Contig1,1,3343,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+388,CL93Contig3,1,1035,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+389,CL95Contig2,1,4653,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+390,CL98Contig48,,244,Morus notabilis 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase partial mRNA,gi|703090589|ref|XM_010095820.1|
+391,CL98Contig58,,167,Morus notabilis hypothetical protein partial mRNA,gi|703152505|ref|XM_010112136.1|
+392,CL98Contig59,,91,Morus notabilis hypothetical protein partial mRNA,gi|703152505|ref|XM_010112136.1|
+393,CL99Contig1,1,1010,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+394,CL99Contig2,1,2617,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+395,CL100Contig1,1,3974,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+396,CL102Contig19,,94,Morus notabilis hypothetical protein partial mRNA,gi|703111345|ref|XM_010101532.1|
+397,CL102Contig20,,410,Morus notabilis hypothetical protein partial mRNA,gi|703073150|ref|XM_010091169.1|
+398,CL102Contig32,,361,Morus notabilis hypothetical protein partial mRNA,gi|703153478|ref|XM_010112389.1|
+399,CL102Contig40,,42,"Theobroma cacao genome assembly, chromosome: VI",gi|1042907542|emb|LT594793.1|
+400,CL103Contig2,1,3607,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+401,CL105Contig38,,130,Morus notabilis hypothetical protein partial mRNA,gi|703099336|ref|XM_010098321.1|
+402,CL107Contig48,,256,"Olea europaea isolate 75176_C retrotransposon copia-type, complete sequence",gi|729055800|gb|KM577425.1|
+403,CL107Contig82,,212,Morus notabilis MLO-like protein 12 partial mRNA,gi|703141676|ref|XM_010109260.1|
+404,CL107Contig124,,191,"Vitis vinifera contig VV78X104871.6, whole genome shotgun sequence",gi|147801567|emb|AM459101.2|
+405,CL109Contig110,,75,Morus notabilis hypothetical protein partial mRNA,gi|703139562|ref|XM_010108710.1|
+406,CL111Contig1,1,2004,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+407,CL113Contig1,1,3111,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+408,CL116Contig2,,104,Morus notabilis hypothetical protein partial mRNA,gi|703156478|ref|XM_010113151.1|
+409,CL116Contig8,,30,"PREDICTED: Solanum tuberosum uncharacterized LOC107062004 (LOC107062004), mRNA",gi|971563920|ref|XM_015312143.1|
+410,CL116Contig12,,101,Morus notabilis hypothetical protein partial mRNA,gi|703133292|ref|XM_010107037.1|
+411,CL117Contig1,1,3630,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+412,CL119Contig1,,3338,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+413,CL119Contig2,1,1703,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+414,CL122Contig9,,185,"PREDICTED: Brassica napus uncharacterized LOC106408152 (LOC106408152), mRNA",gi|923854086|ref|XM_013848973.1|
+415,CL122Contig17,,120,"PREDICTED: Prunus mume uncharacterized LOC103330487 (LOC103330487), mRNA",gi|1027103057|ref|XM_016794139.1|
+416,CL122Contig19,,90,"PREDICTED: Phoenix dactylifera uncharacterized LOC103696607 (LOC103696607), mRNA",gi|672195268|ref|XM_008778287.1|
+417,CL123Contig1,,3522,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+418,CL127Contig1,1,3744,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+419,CL128Contig1,1,713,"Hesperelaea palmeri voucher E. Palmer 81 (MO) mitochondrion, complete genome",gi|1064265668|gb|KX545367.1|
+420,CL129Contig1,1,1005,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+421,CL132Contig1,1,4164,"Cannabis sativa mitochondrion, complete genome",gi|1011751013|gb|KU310670.1|
+422,CL134Contig1,1,2406,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+423,CL138Contig36,,229,Morus indica microsatellite MSCP120-C sequence,gi|459172007|gb|KC408271.1|
+424,CL138Contig37,,516,Morus notabilis Putative AC transposase partial mRNA,gi|703074213|ref|XM_010091458.1|
+425,CL138Contig60,,114,Morus notabilis Putative AC transposase partial mRNA,gi|703074213|ref|XM_010091458.1|
+426,CL140Contig3,,82,"Cucumis melo genomic chromosome, chr_9",gi|733578316|emb|LN713263.1|
+427,CL143Contig81,1,1857,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+428,CL148Contig1,1,473,"Hevea brasiliensis mitochondrial DNA, complete genome",gi|584592121|dbj|AP014526.1|
+429,CL150Contig1,1,1887,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+430,CL152Contig1,1,2154,"Batis maritima mitochondrion, complete genome",gi|655168483|gb|KJ820684.1|
+431,CL154Contig1,1,520,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+432,CL156Contig1,1,1503,"Boea hygrometrica mitochondrion, complete genome",gi|340549473|gb|JN107812.1|
+433,CL157Contig46,,269,Morus notabilis hypothetical protein partial mRNA,gi|703117153|ref|XM_010103013.1|
+434,CL163Contig1,,2020,"Morus alba var. multicaulis plastid, complete genome",gi|1079707686|gb|KU981119.1|
+435,CL165Contig1,1,1821,"Butomus umbellatus mitochondrion, complete genome",gi|426261815|gb|KC208619.1|
+436,CL168Contig1,1,2061,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+437,CL172Contig1,1,2263,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+438,CL174Contig2,1,2920,"Nicotiana tabacum/Hyoscyamus niger cybrid clone contig3 mitochondrion, complete sequence",gi|756762128|gb|KM207680.1|
+439,CL179Contig1,1,1916,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+440,CL182Contig40,,101,"PREDICTED: Prunus mume uncharacterized LOC103332554 (LOC103332554), mRNA",gi|1027103493|ref|XM_016794293.1|
+441,CL187Contig1,1,1614,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+442,CL192Contig1,1,780,"Vigna angularis mitochondrial DNA, complete sequence",gi|478620941|dbj|AP012599.1|
+443,CL194Contig1,1,1938,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+444,CL199Contig1,,541,Morus notabilis hypothetical protein partial mRNA,gi|703137095|ref|XM_010108031.1|
+445,CL204Contig1,1,1580,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+446,CL209Contig19,,30,"Brugia pahangi genome assembly B_pahangi_Glasgow ,scaffold BPAG_scaffold0000014",gi|687895308|emb|LK964173.1|
+447,CL212Contig13,,49,Morus notabilis hypothetical protein partial mRNA,gi|703127737|ref|XM_010105619.1|
+448,CL220Contig11,,117,Morus alba cultivar GEN 1 clone MUL-10 germplasm specific SCAR marker genomic sequence,gi|522697561|gb|KF154109.1|
+449,CL223Contig1,,242,Morus notabilis Double-stranded RNA-binding protein 1 partial mRNA,gi|703156307|ref|XM_010113107.1|
+450,CL225Contig1,1,1042,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+451,CL229Contig1,1,1828,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+452,CL231Contig1,1,997,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+453,CL238Contig1,1,1267,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+454,CL245Contig5,,29,Saccharum hybrid cultivar R570 clone BAC 029L12 complete sequence,gi|530279538|gb|KF184913.1|
+455,CL251Contig1,1,1334,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+456,CL253Contig11,,30,"Medicago truncatula chromosome 8 clone mth2-49f2, complete sequence",gi|84662902|gb|AC152405.15|
+457,CL257Contig1,,29,"Mouse DNA sequence from clone RP23-234E14 on chromosome 4, complete sequence",gi|21211916|emb|AL627073.15|
+458,CL260Contig2,,36,"PREDICTED: Cicer arietinum ABC transporter A family member 7-like (LOC101511004), transcript variant X3, mRNA",gi|828335161|ref|XM_012719908.1|
+459,CL266Contig6,,32,"PREDICTED: Phoenix dactylifera zinc finger BED domain-containing protein RICESLEEPER 2-like (LOC103699504), mRNA",gi|1052207790|ref|XM_008781521.2|
+460,CL266Contig8,,458,Morus notabilis Fatty acyl-CoA reductase 1 partial mRNA,gi|703154963|ref|XM_010112778.1|
+461,CL271Contig3,1,1116,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+462,CL274Contig1,1,314,"Ziziphus jujuba mitochondrion, complete genome",gi|1004606513|gb|KU187967.1|
+463,CL283Contig1,1,909,"Morus notabilis chloroplast, complete genome",gi|818638146|gb|KP939360.1|
+464,CL287Contig1,1,828,"Amborella trichopoda chromosome I mitochondrion, complete sequence",gi|557954279|gb|KF754803.1|
+465,CL292Contig1,,58,Morus notabilis Glutamate receptor 2.1 partial mRNA,gi|703144559|ref|XM_010110015.1|
+466,CL302Contig2,1,354,"Hyoscyamus niger mitochondrion, complete genome",gi|756142152|gb|KM207685.1|
+467,CL319Contig1,,28,"Echinostoma caproni genome assembly E_caproni_Egypt, scaffold ECPE_scaffold0000401",gi|688521785|emb|LL233496.1|
+468,CL323Contig6,,385,Morus notabilis Copia protein partial mRNA,gi|703095636|ref|XM_010097293.1|
+469,CL336Contig5,,205,Morus notabilis hypothetical protein partial mRNA,gi|703081851|ref|XM_010093497.1|
+470,CL339Contig1,1,660,"Cannabis sativa cultivar Sievers Infinity mitochondrion, complete genome",gi|1025625111|gb|KU363807.1|
+471,CL344Contig1,,149,Morus notabilis hypothetical protein partial mRNA,gi|703097134|ref|XM_010097731.1|
+472,CL362Contig1,,515,"Heuchera parviflora var. saurensis voucher Folk 97 (OS), complete genome",gi|927682185|gb|KR559021.1|
+473,CL364Contig4,,92,"Theobroma cacao genome assembly, chromosome: V",gi|1042907541|emb|LT594792.1|
+474,CL376Contig3,,113,"Lotus japonicus genomic DNA, chromosome 5, clone: LjT09O10, TM0341, complete sequence",gi|41688340|dbj|AP006655.1|
+475,CL401Contig1,,144,"Lotus japonicus genomic DNA, chromosome 4, clone: LjT14C18, TM0330, complete sequence",gi|31581063|dbj|AP006432.1|
+476,CL600Contig1,,36,"PREDICTED: Arachis ipaensis uncharacterized LOC107610369 (LOC107610369), mRNA",gi|1021553205|ref|XM_016312427.1|
+477,CL620Contig1,,29,"PREDICTED: Gossypium hirsutum uncharacterized LOC107910809 (LOC107910809), mRNA",gi|1029068071|ref|XM_016838745.1|
