@@ -47,9 +47,9 @@ foreach my $each_pos (<pileup_in>)
 #        print "number is $num\n";
         next;
     }
-  
+
     else { print "not accounted for: base equals $base\n";}
-  }  
+  }
   my $seq = join '', @bases;
   my $qual_seq = join '',@quality;
   my $cov = $g ;
