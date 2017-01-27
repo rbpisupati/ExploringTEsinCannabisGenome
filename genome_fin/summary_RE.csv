@@ -1,0 +1,1943 @@
+	cluster	total length [bp]	number of reads	Genome proportion[%]	cumulative GP [%]	Repeat Masker	Domain hits	Layout	All missing mates [%]	Missing mates	Portion of similarity hits to other clusters[%]	Outside reads with similarity [%]
+										with no similarity hit [%]		
+1	CL1	5844682	58799	2.55	2.5	"LTR.Copia (1hits, 0.00104%)"			0.73	0.6	1.40E-05	0.026
+						"LTR.Gypsy (1hits, 0.000667%)"						
+						"Low_complexity (1hits, 0.000667%)"						
+2	CL2	5425645	54758	2.37	4.9	"Simple_repeat (545hits, 0.328%)"	Ty3-INT Ty3/gypsy chromovirus (3 hits 0.00548%)		32.8	4.12	7.60E-01	12.74
+							DTC-CD1 NA NA (2 hits 0.00365%)					
+							LINE-ENDO NA NA (2 hits 0.00365%)					
+							PARA-RT NA NA (2 hits 0.00365%)					
+							Ty1-GAG Ty1/copia AleII (2 hits 0.00365%)					
+							Ty1-INT......					
+												
+						"Low_complexity (109hits, 0.0868%)"						
+						"LTR.Copia (57hits, 0.0474%)"						
+						"LTR.Gypsy (29hits, 0.0257%)"						
+						"DNA.MULE.MuDR (3hits, 0.00243%)"						
+						"LINE.L1 (2hits, 0.00153%)"						
+						LTR.Caulim......						
+3	CL3	4582125	46123	2	6.9	"LTR.Gypsy (7hits, 0.00978%)"			50.78	0.6	1.10E+01	43.15
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (7hits, 0.00539%)"						
+						"LTR.Copia (1hits, 0.001%)"						
+4	CL4	4506693	45277	1.96	8.9	"Simple_repeat (59hits, 0.0537%)"	Ty3-INT Ty3/gypsy chromovirus (1 hits 0.00221%)		47.11	0.75	1.00E+01	44.54
+												
+												
+												
+												
+												
+												
+						"LTR.Copia (25hits, 0.0302%)"						
+						"Low_complexity (2hits, 0.00126%)"						
+						"LTR.Gypsy (1hits, 0.00107%)"						
+5	CL5	3666803	37469	1.62	10.5	"Simple_repeat (1218hits, 1.13%)"	LINE-RT NA NA (1 hits 0.00267%)		20.53	2.94	1.90E+00	10.16
+							Ty3-INT Ty3/gypsy Athila (1 hits 0.00267%)					
+							Ty3-INT Ty3/gypsy chromovirus (1 hits 0.00267%)					
+												
+												
+												
+												
+						"Low_complexity (55hits, 0.0604%)"						
+						"LTR.Gypsy (32hits, 0.0412%)"						
+						"LTR.Copia (6hits, 0.0087%)"						
+						"LINE.L1 (4hits, 0.00592%)"						
+						"DNA.CMC.EnSpm (2hits, 0.00338%)"						
+						"DNA.MULE.MuDR (1hits, 0.00147%)"						
+6	CL6	3385564	34669	1.5	12	"LTR.Gypsy (30603hits, 83.4%)"	Ty3-RT Ty3/gypsy chromovirus (12849 hits 37.1%)		12.47	2.24	9.20E-01	5.89
+												
+												
+												
+												
+												
+												
+							Ty3-RH Ty3/gypsy chromovirus (7522 hits 21.7%)					
+7	CL7	3404718	34457	1.49	13.5	"Simple_repeat (14517hits, 26.6%)"	DHH-CD2 NA NA (1 hits 0.0029%)		4.11	1.59	5.90E-03	0.456
+							DTM-CD1 NA NA (1 hits 0.0029%)					
+												
+												
+												
+												
+												
+						"Low_complexity (2272hits, 4.3%)"						
+						"LTR.Gypsy (74hits, 0.157%)"						
+						"DNA.hAT.Ac (5hits, 0.00875%)"						
+						"RC.Helitron (2hits, 0.00288%)"						
+						"LTR.Copia (1hits, 0.00112%)"						
+8	CL8	3023784	30449	1.32	14.8	"Simple_repeat (996hits, 1.54%)"			5.88	1.02	1.10E-01	2.197
+												
+												
+												
+												
+												
+												
+						"Low_complexity (540hits, 0.891%)"						
+						"DNA.CMC.EnSpm (3hits, 0.00327%)"						
+						"LTR.Copia (1hits, 0.00192%)"						
+9	CL9	3030952	30419	1.32	16.1	"LTR.Copia (324hits, 0.769%)"	LINE-RT NA NA (5 hits 0.0164%)		55.31	4.28	1.00E+01	38.7
+							Ty1-GAG Ty1/copia AleI/Retrofit (3 hits 0.00986%)					
+							Ty1-RT Ty1/copia Angela (2 hits 0.00657%)					
+							Ty3-INT Ty3/gypsy chromovirus (2 hits 0.00657%)					
+							Ty3-RT Ty3/gypsy chromovirus ......					
+												
+												
+						"Simple_repeat (253hits, 0.426%)"						
+						"Low_complexity (41hits, 0.0722%)"						
+						"LTR.Gypsy (23hits, 0.0292%)"						
+						"LINE.L1 (3hits, 0.00468%)"						
+						"DNA.CMC.EnSpm (3hits, 0.00389%)"						
+						DNA.PIF.Har......						
+10	CL10	2655440	28239	1.22	17.4	"Simple_repeat (87hits, 0.128%)"			39.52	10.92	2.40E+00	17.22
+												
+												
+												
+												
+												
+												
+						"Low_complexity (9hits, 0.0131%)"						
+						"LTR.Gypsy (1hits, 0.00203%)"						
+						"LTR.Caulimovirus (1hits, 0.00143%)"						
+11	CL11	2464195	25110	1.09	18.5	"LTR.Gypsy (20516hits, 75.4%)"	Ty3-INT Ty3/gypsy chromovirus (15928 hits 63.4%)		14.43	3.72	1.20E+00	13.3
+							Ty3-CHDII Ty3/gypsy chromovirus (1549 hits 6.17%)					
+							LINE-ENDO NA NA (1 hits 0.00398%)					
+												
+												
+												
+												
+						"Simple_repeat (142hits, 0.171%)"						
+						"Low_complexity (7hits, 0.0121%)"						
+						"LTR.Copia (3hits, 0.00487%)"						
+12	CL12	2459547	24728	1.07	19.5	"Simple_repeat (799hits, 1.54%)"			51.56	1.01	1.40E+01	37.63
+												
+												
+												
+												
+												
+												
+						"Low_complexity (50hits, 0.0986%)"						
+						"LTR.Copia (5hits, 0.0104%)"						
+						"DNA.MULE.MuDR (1hits, 0.00183%)"						
+13	CL13	2409987	24217	1.05	20.6	"LTR.Copia (1406hits, 4.89%)"	DTA-CD1 NA NA (1 hits 0.00413%)		19.63	1.49	4.60E+00	10.18
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (3hits, 0.00548%)"						
+						"Simple_repeat (3hits, 0.00378%)"						
+14	CL14	2328529	23478	1.02	21.6	"Simple_repeat (165hits, 0.319%)"			18.06	0.94	3.90E+00	12.94
+												
+												
+												
+												
+												
+												
+						"Low_complexity (147hits, 0.319%)"						
+						"LTR.Copia (1hits, 0.00103%)"						
+15	CL15	2327614	23370	1.01	22.6	"Simple_repeat (104hits, 0.246%)"	Ty3-RT Ty3/gypsy chromovirus (1 hits 0.00428%)		19.32	0.62	4.80E+00	16.05
+												
+												
+												
+												
+												
+												
+						"Low_complexity (99hits, 0.203%)"						
+						"LTR.Gypsy (2hits, 0.00361%)"						
+16	CL16	2284359	22942	0.994	23.6	"LTR.Copia (1246hits, 4.27%)"	Ty1-INT Ty1/copia Angela (2314 hits 10.1%)		26.5	0.81	3.70E+00	17.89
+							Ty1-INT Ty1/copia Ivana/Oryco (110 hits 0.479%)					
+							Ty1-INT Ty1/copia AleI/Retrofit (29 hits 0.126%)					
+							Ty1-INT Ty1/copia Maximus/SIRE (28 hits 0.122%)					
+							Ty1-INT Ty1/......					
+												
+												
+						"LTR.Gypsy (6hits, 0.019%)"						
+						"Simple_repeat (3hits, 0.0039%)"						
+17	CL17	2239006	22486	0.975	24.6	"Simple_repeat (146hits, 0.254%)"	Ty1-RH Ty1/copia Tork (10 hits 0.0445%)		30.49	2.66	6.60E+00	68
+							LINE-RT NA NA (4 hits 0.0178%)					
+							DTH-CD1 NA NA (1 hits 0.00445%)					
+							Ty1-RT Ty1/copia Angela (1 hits 0.00445%)					
+							Ty1-RT Ty1/copia Tork (1 hits 0.00445%)					
+							Ty3-INT Ty......					
+												
+						"Low_complexity (72hits, 0.133%)"						
+						"LTR.Copia (17hits, 0.0546%)"						
+						"LTR.Gypsy (9hits, 0.0172%)"						
+						"LINE.L1 (2hits, 0.00375%)"						
+						"LTR (1hits, 0.00147%)"						
+18	CL18	2119103	22436	0.973	25.6	"LTR.Gypsy (1260hits, 3.12%)"	Ty3-GAG Ty3/gypsy chromovirus (1963 hits 8.75%)		14.95	5.72	7.60E-01	5.402
+							Ty3-PROT Ty3/gypsy chromovirus (51 hits 0.227%)					
+							Ty3-RT Ty3/gypsy chromovirus (1 hits 0.00446%)					
+												
+												
+												
+												
+						"LTR.Copia (40hits, 0.0816%)"						
+						"Simple_repeat (23hits, 0.0423%)"						
+						"LINE.L1 (2hits, 0.00566%)"						
+						"RC.Helitron (1hits, 0.00156%)"						
+19	CL19	2167726	22161	0.961	26.5	"LTR.Copia (15211hits, 60.6%)"	Ty1-RT Ty1/copia Angela (5566 hits 25.1%)		11.48	3.1	1.40E+00	4.215
+							Ty1-RH Ty1/copia Angela (2389 hits 10.8%)					
+							Ty1-INT Ty1/copia Angela (904 hits 4.08%)					
+							Ty1-RT Ty1/copia TAR (630 hits 2.84%)					
+							Ty1-RH Ty1/copia Ivana/Oryco (523 hi......					
+												
+												
+						"Simple_repeat (3hits, 0.00447%)"						
+						"LTR.Gypsy (1hits, 0.00314%)"						
+						"LINE.L1 (1hits, 0.00254%)"						
+20	CL20	2069894	21342	0.925	27.4	"Simple_repeat (7hits, 0.00754%)"	Ty1-RH Ty1/copia unclass(Ale) (3 hits 0.0141%)		5.15	1.48	8.10E-02	1.457
+							Ty3-RT Ty3/gypsy chromovirus (1 hits 0.00469%)					
+												
+												
+												
+												
+												
+						"LTR.Gypsy (1hits, 0.00348%)"						
+21	CL21	2088318	21048	0.912	28.3	"Simple_repeat (477hits, 1.07%)"			43.84	2.3	5.50E+00	30.93
+												
+												
+												
+												
+												
+												
+						"Low_complexity (42hits, 0.0826%)"						
+						"LTR.Gypsy (12hits, 0.0373%)"						
+						"LTR.Copia (2hits, 0.00498%)"						
+						"DNA.MULE.MuDR (1hits, 0.00407%)"						
+						"DNA.PIF.Harbinger (1hits, 0.00182%)"						
+22	CL22	2054296	20939	0.908	29.3	"LTR.Gypsy (4647hits, 18.2%)"	Ty3-INT Ty3/gypsy Ogre/Tat (2730 hits 13%)		12.37	5.43	7.50E-02	0.817
+							Ty3-RT Ty3/gypsy Ogre/Tat (1856 hits 8.86%)					
+							Ty3-RH Ty3/gypsy Ogre/Tat (661 hits 3.16%)					
+							Ty3-PROT Ty3/gypsy Ogre/Tat (456 hits 2.18%)					
+							Ty3-GAG Ty3/gypsy Ogre/Ta......					
+												
+												
+						"Simple_repeat (204hits, 0.617%)"						
+						"Low_complexity (25hits, 0.0708%)"						
+						"LTR.Copia (26hits, 0.0643%)"						
+						"RC.Helitron (10hits, 0.0255%)"						
+						"DNA.CMC.EnSpm (3hits, 0.0119%)"						
+						L......						
+23	CL23	1986270	20247	0.878	30.1	"Low_complexity (98hits, 0.19%)"	LINE-RT NA NA (5 hits 0.0247%)		11.27	3.41	1.80E-01	2.163
+							Ty3-INT Ty3/gypsy chromovirus (2 hits 0.00988%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (75hits, 0.124%)"						
+						"DNA.PIF.Harbinger (25hits, 0.0567%)"						
+						"LTR.Copia (15hits, 0.0479%)"						
+						"LINE.L1 (3hits, 0.0129%)"						
+						"LTR.Gypsy (1hits, 0.00237%)"						
+24	CL24	1737368	18327	0.794	30.9	"Simple_repeat (218hits, 0.463%)"	Ty1-INT Ty1/copia AleI/Retrofit (1 hits 0.00546%)		9.95	5.12	1.60E-01	1.539
+												
+												
+												
+												
+												
+												
+						"Low_complexity (85hits, 0.172%)"						
+						"LTR.Copia (6hits, 0.0116%)"						
+						"LTR.Gypsy (1hits, 0.0015%)"						
+25	CL25	1750160	18294	0.793	31.7	"LTR.Gypsy (401hits, 1.43%)"	Ty3-GAG Ty3/gypsy Ogre/Tat (519 hits 2.84%)		10.66	3.96	3.50E-01	1.913
+							Ty3-PROT Ty3/gypsy Ogre/Tat (505 hits 2.76%)					
+							Ty3-RT Ty3/gypsy Ogre/Tat (124 hits 0.678%)					
+							Ty3-GAG Ty3/gypsy Athila (23 hits 0.126%)					
+												
+												
+												
+						"DNA.PIF.Harbinger (3hits, 0.0123%)"						
+						"LTR.Copia (2hits, 0.00474%)"						
+						"LINE.L1 (1hits, 0.00314%)"						
+26	CL26	1552912	15800	0.685	32.4	"LTR.Gypsy (323hits, 1.49%)"	Ty3-GAG Ty3/gypsy chromovirus (184 hits 1.16%)		10.57	4.25	5.10E-02	0.696
+							Ty3-PROT Ty3/gypsy chromovirus (22 hits 0.139%)					
+							DTM-CD1 NA NA (7 hits 0.0443%)					
+							Ty1-RT Ty1/copia AleII (2 hits 0.0127%)					
+												
+												
+												
+						"LTR.Copia (99hits, 0.412%)"						
+						"Simple_repeat (113hits, 0.341%)"						
+						"Low_complexity (39hits, 0.133%)"						
+						"Satellite (6hits, 0.0182%)"						
+						"LTR.Copia. (1hits, 0.0038%)"						
+						"DNA.PIF.Harbinger (1hits, 0.0029%)"						
+27	CL27	1554099	15602	0.676	33.1	"Simple_repeat (97hits, 0.245%)"			10.22	0.96	1.80E+00	5.672
+												
+												
+												
+												
+												
+												
+						"Low_complexity (14hits, 0.0345%)"						
+						"LINE.L1 (3hits, 0.00804%)"						
+28	CL28	1537828	15581	0.675	33.8	"LTR.Gypsy (1322hits, 6.71%)"	Ty3-INT Ty3/gypsy Ogre/Tat (850 hits 5.46%)		22.2	12.27	5.30E-02	0.276
+							Ty3-RT Ty3/gypsy Ogre/Tat (675 hits 4.33%)					
+							Ty3-RH Ty3/gypsy Ogre/Tat (264 hits 1.69%)					
+							Ty3-PROT Ty3/gypsy Ogre/Tat (62 hits 0.398%)					
+							Ty3-GAG Ty3/gypsy Athila ......					
+												
+												
+						"Simple_repeat (30hits, 0.0726%)"						
+						"LTR.Copia (7hits, 0.0201%)"						
+						"DNA.hAT.Ac (3hits, 0.0183%)"						
+						"Low_complexity (3hits, 0.00702%)"						
+						"DNA.CMC.EnSpm (2hits, 0.00618%)"						
+						DNA......						
+29	CL29	1385690	14401	0.624	34.4	"rRNA (554hits, 2.51%)"	Ty1-RT Ty1/copia AleI/Retrofit (1 hits 0.00694%)		5.73	2.01	1.90E-01	1.965
+												
+												
+												
+												
+												
+												
+						"Low_complexity (84hits, 0.17%)"						
+						"Simple_repeat (55hits, 0.111%)"						
+						"LTR.Gypsy (1hits, 0.00447%)"						
+						"LTR.Copia (1hits, 0.00274%)"						
+30	CL30	1380707	13907	0.603	35	"LTR.Copia (518hits, 1.66%)"	Ty1-GAG Ty1/copia Angela (38 hits 0.273%)		9.93	0.84	1.10E+00	5.415
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (72hits, 0.23%)"						
+						"Low_complexity (48hits, 0.15%)"						
+						"DNA.MULE.MuDR (3hits, 0.00942%)"						
+31	CL31	1369232	13837	0.6	35.6	"LTR.Copia (7681hits, 49.5%)"	Ty1-RT Ty1/copia Maximus/SIRE (2424 hits 17.5%)		4.52	1.44	5.50E-02	0.903
+							Ty1-INT Ty1/copia Maximus/SIRE (1542 hits 11.1%)					
+							Ty1-RH Ty1/copia Maximus/SIRE (1419 hits 10.3%)					
+							Ty1-PROT Ty1/copia Maximus/SIRE (677 hits 4.89%)					
+							Ty1-IN......					
+												
+												
+						"Simple_repeat (44hits, 0.0942%)"						
+						"Low_complexity (4hits, 0.012%)"						
+						"LTR.Caulimovirus (1hits, 0.00299%)"						
+32	CL32	1317767	13639	0.591	36.2	"LTR.Gypsy (3491hits, 20.2%)"	Ty3-INT Ty3/gypsy Ogre/Tat (5075 hits 37.2%)		9.71	3.2	1.50E-01	2.207
+							Ty3-RH Ty3/gypsy Ogre/Tat (1301 hits 9.54%)					
+							Ty1-INT Ty1/copia Maximus/SIRE (74 hits 0.543%)					
+							Ty1-INT Ty1/copia Ivana/Oryco (12 hits 0.088%)					
+							Ty3-INT Ty3/gyps......					
+												
+												
+						"Simple_repeat (37hits, 0.0784%)"						
+						"DNA.CMC.EnSpm (5hits, 0.0205%)"						
+						"Low_complexity (6hits, 0.0168%)"						
+						"LTR.Copia (1hits, 0.00296%)"						
+33	CL33	1338500	13557	0.588	36.8	"Simple_repeat (988hits, 3.81%)"	DTA-CD1 NA NA (1 hits 0.00738%)		6.41	2.59	5.40E-02	0.62
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (103hits, 0.353%)"						
+						"Low_complexity (46hits, 0.161%)"						
+						"LTR.Copia (4hits, 0.012%)"						
+						"LTR (1hits, 0.00329%)"						
+34	CL34	1301029	13260	0.575	37.3	"LTR.Gypsy (7823hits, 53.8%)"	Ty3-INT Ty3/gypsy Athila (1730 hits 13%)		7.41	2.88	2.20E-01	1.116
+							Ty3-GAG Ty3/gypsy Athila (1251 hits 9.43%)					
+							Ty3-RT Ty3/gypsy Athila (1227 hits 9.25%)					
+							Ty3-PROT Ty3/gypsy Athila (752 hits 5.67%)					
+							Ty3-RH Ty3/gypsy Athila (654 hi......					
+												
+												
+						"LTR.Copia (112hits, 0.637%)"						
+						"Simple_repeat (152hits, 0.326%)"						
+						"Low_complexity (11hits, 0.0356%)"						
+						"LTR.Copia. (5hits, 0.0218%)"						
+						"LTR (3hits, 0.0121%)"						
+						"DNA.CMC.EnSpm (1hits, 0.00231%)"						
+35	CL35	1274692	12979	0.563	37.9	"LTR.Copia (91hits, 0.587%)"	Ty3-RT Ty3/gypsy Ogre/Tat (1 hits 0.0077%)		34.51	0.67	7.40E+00	20.16
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (4hits, 0.0119%)"						
+						"Low_complexity (3hits, 0.00902%)"						
+						"LTR.Gypsy (2hits, 0.00706%)"						
+						"DNA.CMC.EnSpm (1hits, 0.00267%)"						
+36	CL36	1246770	12794	0.555	38.5	"LTR.Gypsy (92hits, 0.203%)"	Ty3-GAG Ty3/gypsy Ogre/Tat (151 hits 1.18%)		9.43	4.33	7.20E-02	0.821
+							Ty3-PROT Ty3/gypsy Ogre/Tat (135 hits 1.06%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (47hits, 0.128%)"						
+						"LTR.Copia (9hits, 0.0383%)"						
+						"RC.Helitron (2hits, 0.00922%)"						
+						"Low_complexity (2hits, 0.00594%)"						
+						"LINE.L1 (1hits, 0.00425%)"						
+37	CL37	1254997	12766	0.553	39	"Simple_repeat (57hits, 0.182%)"	DTC-CD1 NA NA (1 hits 0.00783%)		18.55	7.14	9.30E-02	1.018
+							Ty1-PROT Ty1/copia AleI/Retrofit (1 hits 0.00783%)					
+							Ty1-RT Ty1/copia AleII (1 hits 0.00783%)					
+							Ty3-INT Ty3/gypsy Ogre/Tat (1 hits 0.00783%)					
+												
+												
+												
+						"Low_complexity (19hits, 0.0635%)"						
+						"LTR.Copia (9hits, 0.0354%)"						
+						"LTR.Gypsy (4hits, 0.0171%)"						
+						"LINE.L1 (5hits, 0.0157%)"						
+						"DNA.hAT.Tip100 (1hits, 0.00343%)"						
+38	CL38	1223837	12415	0.538	39.5	"Simple_repeat (261hits, 0.836%)"	Ty3-RT Ty3/gypsy chromovirus (2 hits 0.0161%)		14.38	6.78	9.20E-02	0.596
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (44hits, 0.152%)"						
+						"Low_complexity (40hits, 0.121%)"						
+						"LTR.Copia. (10hits, 0.0257%)"						
+						"Satellite (5hits, 0.0143%)"						
+						"LTR (1hits, 0.00596%)"						
+						"LTR.Copia (1hits, 0.0......"						
+39	CL39	1171840	11820	0.512	40.1	"LTR.Copia (5178hits, 39.6%)"	Ty1-RT Ty1/copia Angela (1038 hits 8.78%)		5.3	3.32	4.20E-02	0.245
+							Ty1-INT Ty1/copia Angela (684 hits 5.79%)					
+							Ty1-RH Ty1/copia Angela (507 hits 4.29%)					
+							Ty1-RT Ty1/copia Tork (128 hits 1.08%)					
+							Ty1-INT Ty1/copia AleII (99 hits 0.8......					
+												
+												
+						"Simple_repeat (75hits, 0.242%)"						
+						"Low_complexity (15hits, 0.0628%)"						
+						"DNA.hAT.Ac (6hits, 0.0325%)"						
+						"LTR.Gypsy (6hits, 0.0219%)"						
+						"DNA.hAT.Tip100 (1hits, 0.00367%)"						
+40	CL40	1143923	11656	0.505	40.6	"Simple_repeat (1113hits, 4.7%)"	DTM-CD1 NA NA (1 hits 0.00858%)		28.96	4.24	1.10E+01	18.37
+												
+												
+												
+												
+												
+												
+						"Low_complexity (468hits, 2.11%)"						
+						"LTR.Gypsy (3hits, 0.0102%)"						
+41	CL41	1135748	11555	0.501	41.1	"Simple_repeat (88hits, 0.246%)"	DTH-CD1 NA NA (15 hits 0.13%)		40.25	6.74	2.20E+00	18.25
+							Ty3-INT Ty3/gypsy chromovirus (2 hits 0.0173%)					
+							Ty1-INT Ty1/copia unclass(AleI/Retrofit) (1 hits 0.00865%)					
+							Ty3-INT Ty3/gypsy Ogre/Tat (1 hits 0.00865%)					
+												
+												
+												
+						"DNA.PIF.Harbinger (15hits, 0.114%)"						
+						"Low_complexity (28hits, 0.0802%)"						
+						"LTR.Copia (11hits, 0.0333%)"						
+						"LTR.Gypsy (6hits, 0.0247%)"						
+						"LTR (3hits, 0.0141%)"						
+42	CL42	1089906	10976	0.476	41.5	"LTR.Copia (2770hits, 19%)"	Ty1-INT Ty1/copia Angela (1862 hits 17%)		14.74	1.06	3.20E+00	7.562
+							Ty1-PROT Ty1/copia AleII (386 hits 3.52%)					
+							Ty1-PROT Ty1/copia AleI/Retrofit (207 hits 1.89%)					
+							Ty1-GAG Ty1/copia Angela (177 hits 1.61%)					
+							Ty1-PROT Ty1/copia TAR (6......					
+												
+												
+						"Simple_repeat (5hits, 0.0182%)"						
+						"Low_complexity (1hits, 0.00551%)"						
+						"rRNA (1hits, 0.00229%)"						
+43	CL43	1090581	10951	0.475	42	"LTR.Copia (1848hits, 14.2%)"	Ty1-RH Ty1/copia Bianca (490 hits 4.47%)		5.23	2.61	7.90E-03	0.201
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (366hits, 1.36%)"						
+						"Low_complexity (162hits, 0.67%)"						
+						"LTR.Gypsy (13hits, 0.0781%)"						
+						"DNA.hAT.Ac (12hits, 0.0524%)"						
+						"DNA.MULE.MuDR (2hits, 0.00935%)"						
+						RC.......						
+44	CL44	1054527	10871	0.471	42.5	"Simple_repeat (58hits, 0.182%)"			8.09	1.26	2.60E-01	1.978
+												
+												
+												
+												
+												
+												
+						"DNA.CMC.EnSpm (1hits, 0.00351%)"						
+45	CL45	1075492	10855	0.471	43	"Simple_repeat (297hits, 1.21%)"	Ty3-RT Ty3/gypsy chromovirus (4 hits 0.0368%)		28.24	4.38	2.00E+00	7.775
+							LINE-ENDO NA NA (1 hits 0.00921%)					
+												
+												
+												
+												
+												
+						"Low_complexity (45hits, 0.178%)"						
+						"LTR.Gypsy (30hits, 0.111%)"						
+						"LTR.Copia (10hits, 0.0411%)"						
+46	CL46	1062106	10771	0.467	43.4	"Simple_repeat (272hits, 1.07%)"	LINE-RT NA NA (9 hits 0.0836%)		14.46	4.62	1.40E-01	2.479
+							Ty1-RT Ty1/copia AleII (2 hits 0.0186%)					
+							Ty1-INT Ty1/copia Ivana/Oryco (1 hits 0.00928%)					
+												
+												
+												
+												
+						"LTR.Gypsy (220hits, 0.892%)"						
+						"Low_complexity (71hits, 0.27%)"						
+						"LINE.L1 (7hits, 0.0553%)"						
+						"LTR.Copia (4hits, 0.0178%)"						
+47	CL47	1065458	10715	0.464	43.9	"Simple_repeat (32hits, 0.105%)"			56.85	1.61	2.00E+01	137.9
+												
+												
+												
+												
+												
+												
+						"Low_complexity (6hits, 0.0246%)"						
+48	CL48	1035464	10482	0.454	44.3	"DNA.CMC.EnSpm (1284hits, 10.6%)"	DTC-CD1 NA NA (1401 hits 13.4%)		7.52	3.7	4.80E-03	0.115
+							DTA-CD1 NA NA (246 hits 2.35%)					
+							Ty1-RT Ty1/copia Tork (2 hits 0.0191%)					
+							Ty1-RT Ty1/copia Angela (1 hits 0.00954%)					
+												
+												
+												
+						"DNA.hAT.Ac (188hits, 1.43%)"						
+						"Simple_repeat (280hits, 1.2%)"						
+						"LTR.Gypsy (128hits, 0.555%)"						
+						"Low_complexity (30hits, 0.138%)"						
+						"LTR.Copia (4hits, 0.0285%)"						
+49	CL49	1030520	10412	0.451	44.8	"LTR.Copia (7159hits, 63.9%)"	Ty1-RT Ty1/copia Angela (982 hits 9.43%)		7.66	4.09	5.20E-03	0.096
+							Ty1-INT Ty1/copia Angela (662 hits 6.36%)					
+							Ty1-RH Ty1/copia Angela (510 hits 4.9%)					
+							Ty1-RT Ty1/copia Tork (160 hits 1.54%)					
+							Ty1-PROT Ty1/copia Angela (117 hits 1.......					
+												
+												
+						"Simple_repeat (33hits, 0.111%)"						
+						"Low_complexity (15hits, 0.0689%)"						
+						"DNA.hAT.Ac (1hits, 0.00728%)"						
+						"DNA.CMC.EnSpm (1hits, 0.00349%)"						
+50	CL50	951045	9982	0.433	45.2	"rRNA (9214hits, 90.3%)"			10.86	2.38	5.90E-01	2.905
+51	CL51	981027	9879	0.428	45.7	"LTR.Copia (331hits, 2.25%)"	Ty1-GAG Ty1/copia Maximus/SIRE (664 hits 6.72%)		10.42	3.81	6.50E-02	1.832
+							Ty1-GAG Ty1/copia Ivana/Oryco (8 hits 0.081%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (81hits, 0.273%)"						
+						"Low_complexity (29hits, 0.137%)"						
+						"LINE.L1 (3hits, 0.0174%)"						
+						"LTR.Gypsy (1hits, 0.00703%)"						
+52	CL52	931802	9490	0.411	46.1	"LTR.Gypsy (4055hits, 38.3%)"	Ty3-INT Ty3/gypsy chromovirus (1353 hits 14.3%)		13.4	5.84	9.50E-01	8.377
+							Ty3-RT Ty3/gypsy chromovirus (709 hits 7.47%)					
+							Ty3-RH Ty3/gypsy chromovirus (504 hits 5.31%)					
+							Ty3-GAG Ty3/gypsy chromovirus (293 hits 3.09%)					
+							Ty3-CHDII Ty3......					
+												
+												
+						"Simple_repeat (83hits, 0.356%)"						
+						"LTR (38hits, 0.333%)"						
+						"Low_complexity (50hits, 0.226%)"						
+						"LTR.Copia (4hits, 0.0171%)"						
+53	CL53	914906	9184	0.398	46.5	"Simple_repeat (1hits, 0.00383%)"			53.18	0.45	2.10E+01	103.9
+												
+												
+												
+												
+												
+												
+						"Low_complexity (1hits, 0.00339%)"						
+54	CL54	884969	9124	0.396	46.9	"LTR.Gypsy (270hits, 2.06%)"	Ty3-GAG Ty3/gypsy chromovirus (340 hits 3.73%)		15.8	4.44	1.30E+00	10.48
+							Ty3-RH Ty3/gypsy chromovirus (2 hits 0.0219%)					
+							Ty1-RT Ty1/copia TAR (1 hits 0.011%)					
+							Ty3-INT Ty3/gypsy chromovirus (1 hits 0.011%)					
+												
+												
+												
+						"LTR.Copia (195hits, 1.21%)"						
+						"Low_complexity (21hits, 0.101%)"						
+						"Simple_repeat (23hits, 0.1%)"						
+						"LTR.Caulimovirus (10hits, 0.0452%)"						
+						"LINE.L1 (3hits, 0.0145%)"						
+55	CL55	869531	8806	0.382	47.2	"LTR.Copia (56hits, 0.448%)"			2.68	1.19	5.20E-02	0.341
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (86hits, 0.442%)"						
+						"DNA.CMC.EnSpm (48hits, 0.282%)"						
+						"Low_complexity (16hits, 0.119%)"						
+56	CL56	872025	8792	0.381	47.6	"LTR.Copia (2577hits, 26.1%)"	Ty1-RT Ty1/copia Maximus/SIRE (573 hits 6.52%)		5.89	2.47	1.60E-02	0.341
+							Ty1-INT Ty1/copia Maximus/SIRE (365 hits 4.15%)					
+							Ty1-RH Ty1/copia Maximus/SIRE (315 hits 3.58%)					
+							Ty1-GAG Ty1/copia Maximus/SIRE (167 hits 1.9%)					
+							Ty1-PROT Ty......					
+												
+												
+						"Simple_repeat (241hits, 1%)"						
+						"Low_complexity (74hits, 0.336%)"						
+						"LTR.Gypsy (11hits, 0.0764%)"						
+						"DNA.hAT.Ac (12hits, 0.0399%)"						
+57	CL57	866180	8751	0.379	48	"Simple_repeat (292hits, 1.48%)"	DTM-CD1 NA NA (915 hits 10.5%)		6.11	3.34	1.70E-03	0.046
+							DTH-CD1 NA NA (1 hits 0.0114%)					
+							LINE-RT NA NA (1 hits 0.0114%)					
+							Ty3-INT Ty3/gypsy Ogre/Tat (1 hits 0.0114%)					
+												
+												
+												
+						"DNA.MULE.MuDR (132hits, 0.976%)"						
+						"Low_complexity (141hits, 0.872%)"						
+						"LTR.Copia (12hits, 0.0655%)"						
+						"DNA.CMC.EnSpm (4hits, 0.0249%)"						
+						"LTR.Gypsy (4hits, 0.0206%)"						
+						DNA.hAT.......						
+58	CL58	855371	8722	0.378	48.4	"LTR (4523hits, 41.3%)"	Ty1-RT Ty1/copia AleI/Retrofit (10 hits 0.115%)		20.13	8.5	3.50E-02	5.813
+							Ty3-INT Ty3/gypsy chromovirus (2 hits 0.0229%)					
+							LINE-RT NA NA (1 hits 0.0115%)					
+							Ty3-RT Ty3/gypsy Ogre/Tat (1 hits 0.0115%)					
+												
+												
+												
+						"DNA.hAT.Tip100 (89hits, 0.403%)"						
+						"Satellite (12hits, 0.0863%)"						
+						"LTR.Gypsy (6hits, 0.0434%)"						
+						"LTR.Copia (4hits, 0.0212%)"						
+						"Simple_repeat (4hits, 0.0147%)"						
+						"LINE.L1 (1hits, ......"						
+59	CL59	856941	8662	0.375	48.8	"LTR.Copia (5797hits, 62.4%)"	Ty1-RT Ty1/copia Angela (642 hits 7.41%)		6.76	3.53	7.70E-02	0.773
+							Ty1-INT Ty1/copia Angela (636 hits 7.34%)					
+							Ty1-RH Ty1/copia Angela (467 hits 5.39%)					
+							Ty1-PROT Ty1/copia Angela (102 hits 1.18%)					
+							Ty1-INT Ty1/copia TAR (77 hits 0.......					
+												
+												
+						"Simple_repeat (170hits, 0.981%)"						
+						"Low_complexity (15hits, 0.0811%)"						
+						"RC.Helitron (2hits, 0.0176%)"						
+						"DNA.MULE.MuDR (2hits, 0.012%)"						
+						"DNA.CMC.EnSpm (1hits, 0.00735%)"						
+60	CL60	824710	8449	0.366	49.1	"DNA.MULE.MuDR (131hits, 1.19%)"	DTM-CD1 NA NA (1264 hits 15%)		6.85	3.78	1.70E-02	0.343
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (151hits, 0.842%)"						
+						"Low_complexity (32hits, 0.168%)"						
+61	CL61	786141	8019	0.348	49.5	"LTR.Gypsy (2795hits, 29.4%)"	Ty3-INT Ty3/gypsy Ogre/Tat (1769 hits 22.1%)		7.77	2.88	1.00E-01	0.861
+												
+												
+												
+												
+												
+												
+							Ty3-RT Ty3/gypsy Ogre/Tat (1542 hits 19.2%)					
+							Ty3-RH Ty3/gypsy Ogre/Tat (519 hits 6.47%)					
+							Ty3-RH Ty3/gypsy Athila (82 hits 1.02%)					
+							Ty1-INT Ty1/copia Ivana/Oryc......					
+62	CL62	765534	7866	0.341	49.8	"LTR.Gypsy (5841hits, 65.4%)"	Ty3-RT Ty3/gypsy Ogre/Tat (3482 hits 44.3%)		16.68	3.42	4.60E-01	3.979
+												
+												
+												
+												
+												
+												
+							Ty3-RH Ty3/gypsy Athila (230 hits 2.92%)					
+							Ty3-RH Ty3/gypsy chromovirus (1 hits 0.0127%)					
+							Ty3-RH Ty3/gypsy Ogre/Tat (1 hits 0.0127%)					
+63	CL63	717113	7812	0.339	50.1	"rRNA (7560hits, 95.1%)"			13.47	8.44	1.30E-01	1.421
+64	CL64	716632	7356	0.319	50.5	"LTR.Gypsy (5632hits, 71%)"	Ty3-INT Ty3/gypsy chromovirus (5379 hits 73.1%)		15.63	4.16	1.80E+00	29.09
+							Ty3-CHDII Ty3/gypsy chromovirus (10 hits 0.136%)					
+												
+												
+												
+												
+												
+						"LTR.Copia (1hits, 0.00698%)"						
+						"Simple_repeat (2hits, 0.00656%)"						
+65	CL65	687280	7263	0.315	50.8	"rRNA (7204hits, 97.9%)"			9.13	4.67	3.50E-01	2.396
+66	CL66	696271	6985	0.303	51.1	"Simple_repeat (1237hits, 7.45%)"			13.41	1.2	2.20E+00	8.518
+												
+												
+												
+												
+												
+												
+						"Low_complexity (373hits, 2.65%)"						
+						"LTR.Copia (1hits, 0.00646%)"						
+67	CL67	687668	6943	0.301	51.4	"LTR.Copia (207hits, 2.03%)"	Ty1-GAG Ty1/copia Maximus/SIRE (317 hits 4.57%)		6.55	3.1	6.10E-02	0.936
+							Ty1-GAG Ty1/copia Ivana/Oryco (13 hits 0.187%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (204hits, 0.881%)"						
+						"Low_complexity (6hits, 0.0385%)"						
+						"LINE.L1 (2hits, 0.0105%)"						
+68	CL68	665738	6937	0.301	51.7				12.27	1.56	4.30E-01	2.523
+69	CL69	663788	6877	0.298	52	"Simple_repeat (32hits, 0.11%)"			8.27	3.84	1.20E-01	1.178
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (3hits, 0.0158%)"						
+						"Low_complexity (1hits, 0.00678%)"						
+70	CL70	677542	6842	0.297	52.3	"LTR.Gypsy (382hits, 3.57%)"			19.29	8.02	1.90E-01	2.572
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (257hits, 1.46%)"						
+						"Low_complexity (154hits, 0.973%)"						
+						"LTR.Copia (40hits, 0.435%)"						
+						"Satellite (22hits, 0.125%)"						
+71	CL71	656986	6780	0.294	52.6	"Simple_repeat (64hits, 0.277%)"	Ty1-INT Ty1/copia Tork (2 hits 0.0295%)		17.14	6.79	2.00E-01	0.988
+												
+												
+												
+												
+												
+												
+						"Low_complexity (14hits, 0.0645%)"						
+						"LTR.Gypsy (4hits, 0.0286%)"						
+						"LTR.Copia (1hits, 0.00609%)"						
+						"LINE.L1 (1hits, 0.00533%)"						
+72	CL72	654505	6638	0.288	52.9	"LTR.Gypsy (98hits, 0.537%)"			3.65	1.49	9.50E-02	0.512
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (74hits, 0.361%)"						
+						"Low_complexity (15hits, 0.0932%)"						
+						"LTR.Copia (1hits, 0.00764%)"						
+73	CL73	631472	6438	0.279	53.1	"LTR.Copia (228hits, 2.69%)"	Ty3-GAG Ty3/gypsy Athila (7 hits 0.109%)		10.5	4.02	1.00E-01	1.212
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (224hits, 2.15%)"						
+						"Simple_repeat (212hits, 1.34%)"						
+						"Low_complexity (62hits, 0.495%)"						
+						"LINE.L1 (2hits, 0.0165%)"						
+						"DNA.CMC.EnSpm (1hits, 0.00523%)"						
+						"LTR (1hits, 0.00158%)"						
+74	CL74	631346	6387	0.277	53.4	"LTR.Gypsy (2902hits, 40.8%)"	Ty3-INT Ty3/gypsy chromovirus (2341 hits 36.7%)		15.14	4.49	5.60E-01	6.842
+							Ty3-CHDII Ty3/gypsy chromovirus (195 hits 3.05%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (115hits, 0.75%)"						
+						"Low_complexity (27hits, 0.21%)"						
+						"LTR (1hits, 0.00649%)"						
+75	CL75	610102	6335	0.275	53.7	"rRNA (3215hits, 46.9%)"			22.05	7.12	8.10E-01	4.83
+												
+												
+												
+												
+												
+												
+						"LTR (4hits, 0.0459%)"						
+						"Simple_repeat (3hits, 0.0177%)"						
+76	CL76	606880	6105	0.265	54	"LTR.Copia (2817hits, 40.3%)"	Ty1-GAG Ty1/copia Angela (125 hits 2.05%)		4.64	2.05	5.00E-02	0.688
+							Ty1-INT Ty1/copia Angela (18 hits 0.295%)					
+							Ty1-RT Ty1/copia Angela (7 hits 0.115%)					
+							Ty1-RT Ty1/copia Tork (1 hits 0.0164%)					
+							Ty1-RT Ty1/copia unclass(Ale) (1 hits 0.0164%)					
+												
+												
+						"Simple_repeat (90hits, 0.766%)"						
+						"Low_complexity (16hits, 0.139%)"						
+77	CL77	539495	5606	0.243	54.2	"Simple_repeat (4620hits, 75.3%)"			14.06	8.83	3.60E-02	0.196
+												
+												
+												
+												
+												
+												
+						"LINE.L1 (70hits, 1.08%)"						
+						"Low_complexity (69hits, 0.786%)"						
+						"LTR.Copia (10hits, 0.0834%)"						
+						"LINE.Penelope (5hits, 0.0812%)"						
+						"LTR.Gypsy (8hits, 0.0801%)"						
+						DNA (5hit......						
+78	CL78	549928	5565	0.241	54.4	"Simple_repeat (405hits, 3.32%)"	DTM-CD1 NA NA (324 hits 5.82%)		21.01	13.87	6.80E-03	0.108
+												
+												
+												
+												
+												
+												
+						"Low_complexity (195hits, 1.74%)"						
+						"DNA.MULE.MuDR (37hits, 0.384%)"						
+						"LTR.Copia (9hits, 0.14%)"						
+						"DNA.hAT.Ac (1hits, 0.0144%)"						
+						"LINE.L1 (1hits, 0.00782%)"						
+79	CL79	540543	5477	0.237	54.7	"LTR.Gypsy (869hits, 12%)"	Ty3-GAG Ty3/gypsy Athila (384 hits 7.01%)		10.9	4.89	4.10E-02	0.42
+							Ty3-PROT Ty3/gypsy Athila (200 hits 3.65%)					
+							Ty3-INT Ty3/gypsy Athila (35 hits 0.639%)					
+							Ty3-INT Ty3/gypsy Ogre/Tat (1 hits 0.0183%)					
+												
+												
+												
+						"Simple_repeat (119hits, 0.927%)"						
+						"LTR.Copia (49hits, 0.751%)"						
+						"Low_complexity (53hits, 0.468%)"						
+						"LTR (10hits, 0.0929%)"						
+80	CL80	538025	5447	0.236	54.9	"Simple_repeat (529hits, 4.54%)"	DTT-CD1 NA NA (1 hits 0.0184%)		41.29	3.32	6.30E+00	19.74
+												
+												
+												
+												
+												
+												
+						"DNA.MULE.MuDR (21hits, 0.248%)"						
+						"Low_complexity (7hits, 0.0485%)"						
+						"DNA.CMC.EnSpm (3hits, 0.021%)"						
+						"LTR.Copia (1hits, 0.00799%)"						
+81	CL81	523839	5342	0.232	55.1	"DNA.CMC.EnSpm (51hits, 0.793%)"			4.98	3.65	9.80E-03	0.112
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (88hits, 0.561%)"						
+						"LTR.Gypsy (35hits, 0.24%)"						
+						"Low_complexity (27hits, 0.185%)"						
+						"LTR.Copia (13hits, 0.184%)"						
+82	CL82	347670	5328	0.231	55.4	"LTR.Gypsy (4hits, 0.0561%)"	DTM-CD1 NA NA (1 hits 0.0188%)		99.81	7.94	1.90E-04	0.451
+							Ty3-RH Ty3/gypsy chromovirus (1 hits 0.0188%)					
+							Ty3-RT Ty3/gypsy chromovirus (1 hits 0.0188%)					
+												
+												
+												
+												
+						"LTR.Copia (4hits, 0.0411%)"						
+						"Simple_repeat (3hits, 0.0377%)"						
+						"rRNA (2hits, 0.027%)"						
+						"Low_complexity (2hits, 0.0207%)"						
+						"LTR (1hits, 0.0124%)"						
+						"LINE.L1 (1hits, 0.0124%)"						
+						S......						
+83	CL83	340757	5249	0.228	55.6	"rRNA (2hits, 0.0226%)"	DTC-CD1 NA NA (1 hits 0.0191%)		99.92	6.69	1.40E-04	0.324
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (2hits, 0.0211%)"						
+						"LINE.L1 (1hits, 0.0123%)"						
+						"Satellite (1hits, 0.0106%)"						
+84	CL84	507510	5145	0.223	55.8	"LTR.Copia (3769hits, 67.9%)"	Ty1-RT Ty1/copia AleII (814 hits 15.8%)		8.22	5.33	1.60E-03	0.058
+							Ty1-INT Ty1/copia AleII (622 hits 12.1%)					
+							Ty1-RH Ty1/copia AleII (484 hits 9.41%)					
+							Ty1-GAG Ty1/copia AleII (325 hits 6.32%)					
+							Ty1-PROT Ty1/copia AleII (227 hits 4.4......					
+												
+												
+						"Simple_repeat (126hits, 1.02%)"						
+						"Low_complexity (23hits, 0.233%)"						
+85	CL85	501991	5071	0.22	56.1	"LTR.Copia (2129hits, 35.2%)"	Ty1-RT Ty1/copia Tork (681 hits 13.4%)		8.97	4.1	0.00E+00	0
+							Ty1-INT Ty1/copia Tork (504 hits 9.94%)					
+							Ty1-RH Ty1/copia Tork (228 hits 4.5%)					
+							Ty1-GAG Ty1/copia Tork (191 hits 3.77%)					
+							"Ty1-PROT Ty1/copia Tork (155 hits 3.06%)<="""" td="""">"					
+												
+												
+						"Simple_repeat (66hits, 0.439%)"						
+						"LTR.Gypsy (17hits, 0.159%)"						
+						"Low_complexity (17hits, 0.143%)"						
+						"DNA.MULE.MuDR (2hits, 0.0171%)"						
+86	CL86	457782	4960	0.215	56.3	"rRNA (2254hits, 41.3%)"	DTM-CD1 NA NA (1 hits 0.0202%)		22.98	9.15	9.20E-01	4.919
+87	CL87	483016	4906	0.213	56.5	"LTR.Copia (180hits, 2.88%)"			2.36	1.73	1.10E-03	0.02
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (180hits, 1.57%)"						
+						"Low_complexity (36hits, 0.301%)"						
+88	CL88	485451	4903	0.213	56.7	"LTR.Gypsy (1610hits, 28.9%)"	Ty3-INT Ty3/gypsy chromovirus (978 hits 19.9%)		11.44	3.1	3.70E-01	2.753
+							Ty3-CHDII Ty3/gypsy chromovirus (101 hits 2.06%)					
+							Ty3-RH Ty3/gypsy chromovirus (95 hits 1.94%)					
+							Ty3-RT Ty3/gypsy chromovirus (34 hits 0.693%)					
+												
+												
+												
+						"Simple_repeat (67hits, 0.51%)"						
+						"Low_complexity (9hits, 0.0832%)"						
+						"LTR.Copia (1hits, 0.00968%)"						
+						"LTR (1hits, 0.00968%)"						
+89	CL89	457050	4641	0.201	56.9	"LTR.Copia (675hits, 12%)"	Ty1-GAG Ty1/copia Maximus/SIRE (249 hits 5.37%)		6.87	3.1	1.20E-02	0.129
+							Ty1-RT Ty1/copia Maximus/SIRE (206 hits 4.44%)					
+							Ty1-INT Ty1/copia Maximus/SIRE (180 hits 3.88%)					
+							Ty1-RH Ty1/copia Maximus/SIRE (116 hits 2.5%)					
+							Ty1-PROT Ty......					
+												
+												
+						"Simple_repeat (39hits, 0.321%)"						
+						"Low_complexity (4hits, 0.0319%)"						
+						"DNA.hAT.Tag1 (2hits, 0.0254%)"						
+90	CL90	454906	4568	0.198	57.1	"LTR.Copia (637hits, 10.9%)"			10.29	4.93	4.70E-03	0.131
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (350hits, 4.06%)"						
+						"Low_complexity (3hits, 0.0334%)"						
+						"DNA.CMC.EnSpm (1hits, 0.0138%)"						
+91	CL91	407388	4246	0.184	57.3	"LTR.Copia (388hits, 7.76%)"			8.29	4.36	1.70E-02	0.212
+												
+												
+												
+												
+												
+												
+						"rRNA (133hits, 1.95%)"						
+						"Simple_repeat (1hits, 0.0081%)"						
+92	CL92	415061	4212	0.183	57.5	"Simple_repeat (81hits, 0.654%)"			2.56	1.95	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (47hits, 0.398%)"						
+						"LTR.Gypsy (26hits, 0.213%)"						
+93	CL93	405089	4133	0.179	57.6	"rRNA (143hits, 2.65%)"			4.48	2.35	1.20E-02	0.097
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (50hits, 0.536%)"						
+						"Low_complexity (26hits, 0.244%)"						
+94	CL94	404603	4093	0.177	57.8	"LTR.Gypsy (1055hits, 22.7%)"	Ty3-INT Ty3/gypsy chromovirus (361 hits 8.82%)		15.56	9.94	8.30E-03	0.171
+							Ty3-RT Ty3/gypsy chromovirus (200 hits 4.89%)					
+							Ty3-RH Ty3/gypsy chromovirus (124 hits 3.03%)					
+							Ty3-GAG Ty3/gypsy chromovirus (60 hits 1.47%)					
+							Ty3-CHDII Ty3/g......					
+												
+												
+						"Simple_repeat (39hits, 0.449%)"						
+						"Low_complexity (20hits, 0.234%)"						
+95	CL95	351187	3576	0.155	58	"DNA.MULE.MuDR (80hits, 1.59%)"	DTM-CD1 NA NA (791 hits 22.1%)		7.83	4.7	2.50E-02	0.14
+							Ty3-RT Ty3/gypsy chromovirus (1 hits 0.028%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (58hits, 0.671%)"						
+						"Low_complexity (16hits, 0.213%)"						
+						"LTR.Copia (1hits, 0.0137%)"						
+96	CL96	334179	3380	0.147	58.1	"DNA.MULE.MuDR (41hits, 0.85%)"	DTM-CD1 NA NA (10 hits 0.296%)		5.68	2.48	2.90E-02	0.296
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (27hits, 0.273%)"						
+						"Low_complexity (8hits, 0.102%)"						
+97	CL97	326088	3288	0.143	58.3	"Simple_repeat (156hits, 1.79%)"			14.66	7.48	4.90E-03	0.091
+												
+												
+												
+												
+												
+												
+						"Low_complexity (52hits, 0.692%)"						
+98	CL98	318699	3281	0.142	58.4	"Simple_repeat (5hits, 0.0521%)"			4.05	1.74	2.00E-03	0.366
+												
+												
+												
+												
+												
+												
+						"Low_complexity (3hits, 0.0518%)"						
+99	CL99	319199	3244	0.141	58.5	"Simple_repeat (148hits, 1.69%)"	Ty1-RT Ty1/copia Ivana/Oryco (1 hits 0.0308%)		23.43	13.53	1.60E-01	0.617
+												
+												
+												
+												
+												
+												
+						"Low_complexity (56hits, 0.905%)"						
+						"DNA.hAT.Ac (3hits, 0.0479%)"						
+						"DNA.CMC.EnSpm (1hits, 0.0172%)"						
+						"DNA.TcMar.Stowaway (1hits, 0.0144%)"						
+100	CL100	318188	3210	0.139	58.7	"Simple_repeat (191hits, 1.54%)"	Ty1-RT Ty1/copia Ivana/Oryco (1 hits 0.0312%)		29.28	6.2	1.60E+00	9.626
+												
+												
+												
+												
+												
+												
+						"Low_complexity (28hits, 0.338%)"						
+						"LTR.Gypsy (3hits, 0.0619%)"						
+						"LTR.Copia (1hits, 0.0198%)"						
+101	CL101	301071	3078	0.133	58.8	"Simple_repeat (47hits, 0.88%)"			3.83	2.66	1.10E-02	0.13
+												
+												
+												
+												
+												
+												
+						"Low_complexity (11hits, 0.124%)"						
+						"rRNA (1hits, 0.00996%)"						
+102	CL102	301881	3074	0.133	58.9	"LTR.Copia (75hits, 1.89%)"			2.47	1.82	3.40E-03	0.065
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (11hits, 0.129%)"						
+						"Low_complexity (6hits, 0.0696%)"						
+103	CL103	296733	3027	0.131	59.1	"DNA.MULE.MuDR (137hits, 3.5%)"	DTM-CD1 NA NA (665 hits 22%)		9.88	5.05	8.20E-02	0.76
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (44hits, 0.46%)"						
+						"Low_complexity (13hits, 0.168%)"						
+104	CL104	294029	2998	0.13	59.2	"LTR.Gypsy (701hits, 20%)"	Ty3-RT Ty3/gypsy chromovirus (236 hits 7.87%)		7.14	2.9	2.10E-01	1.668
+							Ty3-RH Ty3/gypsy chromovirus (116 hits 3.87%)					
+							Ty3-GAG Ty3/gypsy chromovirus (70 hits 2.33%)					
+							Ty3-PROT Ty3/gypsy chromovirus (22 hits 0.734%)					
+												
+												
+												
+						"Simple_repeat (94hits, 1.47%)"						
+						"Low_complexity (8hits, 0.171%)"						
+						"LTR.Copia (8hits, 0.141%)"						
+						"LTR.Caulimovirus (1hits, 0.019%)"						
+105	CL105	293545	2961	0.128	59.3	"LTR.Gypsy (1585hits, 48.1%)"	Ty3-INT Ty3/gypsy Athila (534 hits 18%)		3.95	1.55	0.00E+00	0
+							Ty3-RT Ty3/gypsy Athila (260 hits 8.78%)					
+							Ty3-RH Ty3/gypsy Athila (132 hits 4.46%)					
+							Ty3-GAG Ty3/gypsy Athila (91 hits 3.07%)					
+							Ty3-PROT Ty3/gypsy Athila (87 hits 2.94%)					
+												
+												
+						"Simple_repeat (57hits, 0.858%)"						
+						"LTR.Copia (48hits, 0.821%)"						
+						"Low_complexity (23hits, 0.372%)"						
+						"Satellite (2hits, 0.0324%)"						
+						"DNA.CMC.EnSpm (1hits, 0.00443%)"						
+106	CL106	285227	2936	0.127	59.5	"LTR.Gypsy (26hits, 0.438%)"			12.13	7.05	1.30E-02	0.238
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (16hits, 0.191%)"						
+						"Low_complexity (1hits, 0.0151%)"						
+						"LINE.L1 (1hits, 0.0109%)"						
+107	CL107	289557	2909	0.126	59.6	"Simple_repeat (18hits, 0.186%)"			37.3	26.57	1.40E-03	0.103
+												
+												
+												
+												
+												
+												
+						"DNA.MULE.MuDR (5hits, 0.0891%)"						
+						"Low_complexity (5hits, 0.0767%)"						
+						"LTR.Gypsy (1hits, 0.0207%)"						
+108	CL108	282457	2866	0.124	59.7	"DNA.CMC.EnSpm (767hits, 22.7%)"	DTC-CD1 NA NA (933 hits 32.6%)		6.91	2.97	2.60E-03	0.035
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (30hits, 0.446%)"						
+						"Low_complexity (9hits, 0.116%)"						
+						"LTR.Copia (2hits, 0.0404%)"						
+109	CL109	275094	2783	0.121	59.8	"LTR.Gypsy (1398hits, 44.8%)"	Ty3-INT Ty3/gypsy Athila (297 hits 10.7%)		5.43	2.34	1.50E-02	0.108
+							Ty3-RT Ty3/gypsy Athila (242 hits 8.7%)					
+							Ty3-RH Ty3/gypsy Athila (146 hits 5.25%)					
+							Ty3-GAG Ty3/gypsy Athila (139 hits 4.99%)					
+							Ty3-PROT Ty3/gypsy Athila (90 hits ......					
+												
+												
+						"Simple_repeat (17hits, 0.184%)"						
+						"Low_complexity (4hits, 0.0709%)"						
+						"LINE.L1 (1hits, 0.0229%)"						
+110	CL110	267047	2720	0.118	60	"DNA.CMC.EnSpm (512hits, 15.7%)"	DTC-CD1 NA NA (537 hits 19.7%)		6.1	3.64	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (93hits, 1.58%)"						
+						"Low_complexity (17hits, 0.369%)"						
+						"LTR.Copia (5hits, 0.112%)"						
+111	CL111	256858	2706	0.117	60.1	"rRNA (96hits, 2.7%)"			9.09	3.92	4.60E-02	0.998
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (47hits, 0.626%)"						
+						"Low_complexity (5hits, 0.0899%)"						
+112	CL112	263729	2674	0.116	60.2	"LTR.Gypsy (1839hits, 63.5%)"	Ty3-INT Ty3/gypsy chromovirus (391 hits 14.6%)		7.11	2.73	9.00E-03	0.112
+							Ty3-RT Ty3/gypsy chromovirus (302 hits 11.3%)					
+							Ty3-GAG Ty3/gypsy chromovirus (191 hits 7.14%)					
+							Ty3-RH Ty3/gypsy chromovirus (159 hits 5.95%)					
+							Ty3-PROT Ty3/g......					
+												
+												
+						"Simple_repeat (18hits, 0.239%)"						
+						"Low_complexity (11hits, 0.224%)"						
+						"DNA (1hits, 0.0163%)"						
+113	CL113	254937	2609	0.113	60.3	"Simple_repeat (107hits, 1.85%)"	Ty1-RH Ty1/copia AleI/Retrofit (2 hits 0.0767%)		47.64	33.19	4.50E-03	0.115
+							DTM-CD1 NA NA (1 hits 0.0383%)					
+							LINE-RH NA NA (1 hits 0.0383%)					
+												
+												
+												
+												
+						"Low_complexity (11hits, 0.193%)"						
+						"DNA.CMC.EnSpm (4hits, 0.111%)"						
+						"LTR.Copia (2hits, 0.0439%)"						
+114	CL114	223259	2263	0.098	60.4	"DNA.MULE.MuDR (34hits, 1.11%)"			2.61	1.72	1.50E-02	0.177
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (23hits, 0.294%)"						
+						"Low_complexity (7hits, 0.204%)"						
+115	CL115	212100	2201	0.095	60.5	"Simple_repeat (82hits, 1.36%)"			12.86	5.13	2.90E-01	2.726
+												
+												
+												
+												
+												
+												
+						"Low_complexity (3hits, 0.0599%)"						
+116	CL116	211405	2165	0.094	60.6	"LTR.Gypsy (149hits, 6.11%)"	Ty3-GAG Ty3/gypsy chromovirus (145 hits 6.7%)		12.52	4.53	1.40E+00	10.25
+							Ty3-PROT Ty3/gypsy chromovirus (19 hits 0.878%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (9hits, 0.172%)"						
+						"Low_complexity (1hits, 0.0251%)"						
+						"LTR.Copia (1hits, 0.0166%)"						
+117	CL117	213564	2162	0.094	60.7	"LTR.Copia (78hits, 2.8%)"	Ty1-RT Ty1/copia AleI/Retrofit (2 hits 0.0925%)		13.88	4.62	1.80E-02	0.139
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (67hits, 1.29%)"						
+						"LTR.Gypsy (43hits, 1.27%)"						
+						"Low_complexity (33hits, 0.66%)"						
+118	CL118	214480	2154	0.093	60.8	"Simple_repeat (131hits, 1.75%)"			49.21	5.15	6.70E+00	25.39
+												
+												
+												
+												
+												
+												
+						"Low_complexity (5hits, 0.114%)"						
+119	CL119	207868	2109	0.091	60.9	"LTR.Copia (1652hits, 72.5%)"	Ty1-RT Ty1/copia TAR (274 hits 13%)		13.04	7.87	2.60E-02	0.19
+							Ty1-INT Ty1/copia TAR (170 hits 8.06%)					
+							Ty1-RH Ty1/copia TAR (123 hits 5.83%)					
+							Ty1-PROT Ty1/copia TAR (66 hits 3.13%)					
+							Ty1-GAG Ty1/copia TAR (55 hits 2.61%)					
+							Ty1-R......					
+												
+						"Simple_repeat (9hits, 0.137%)"						
+						"Low_complexity (1hits, 0.0178%)"						
+120	CL120	207908	2106	0.091	61	"Simple_repeat (27hits, 0.427%)"			22.32	5.37	2.20E+00	10.54
+												
+												
+												
+												
+												
+												
+						"Low_complexity (8hits, 0.174%)"						
+121	CL121	204045	2065	0.089	61	"Satellite (1172hits, 48.5%)"			0.92	0.77	1.10E-01	25.23
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (186hits, 3.58%)"						
+						"Low_complexity (98hits, 1.73%)"						
+						"LTR (2hits, 0.0691%)"						
+122	CL122	200523	2016	0.087	61.1	"Simple_repeat (29hits, 0.5%)"			63.99	0.45	3.70E+00	41.02
+												
+												
+												
+												
+												
+												
+						"Low_complexity (2hits, 0.0354%)"						
+123	CL123	192679	1944	0.084	61.2	"Simple_repeat (133hits, 3.17%)"	Ty1-RT Ty1/copia AleI/Retrofit (1 hits 0.0514%)		35.08	20.01	7.40E-03	0.103
+												
+												
+												
+												
+												
+												
+						"Low_complexity (39hits, 1.07%)"						
+						"LTR.Gypsy (40hits, 1.02%)"						
+						"LTR.Copia (5hits, 0.154%)"						
+						"SINE.tRNA (3hits, 0.0919%)"						
+						"DNA.hAT.Tip100 (2hits, 0.0477%)"						
+124	CL124	188130	1933	0.084	61.3	"Simple_repeat (173hits, 4.2%)"			50.44	32.02	2.40E-02	0.259
+												
+												
+												
+												
+												
+												
+						"Low_complexity (15hits, 0.37%)"						
+						"DNA.MULE.MuDR (2hits, 0.0404%)"						
+125	CL125	182930	1849	0.08	61.4	"LTR.Gypsy (201hits, 7.25%)"	Ty3-GAG Ty3/gypsy Ogre/Tat (50 hits 2.7%)		19.74	8.98	1.10E-02	0.108
+							Ty3-PROT Ty3/gypsy Ogre/Tat (15 hits 0.811%)					
+							Ty3-CHDCR Ty3/gypsy chromovirus (5 hits 0.27%)					
+							Ty3-GAG Ty3/gypsy Athila (1 hits 0.0541%)					
+							Ty3-INT Ty3/gypsy chromo......					
+												
+												
+						"Low_complexity (31hits, 0.744%)"						
+						"Simple_repeat (25hits, 0.577%)"						
+126	CL126	179992	1816	0.079	61.5	"Simple_repeat (37hits, 0.833%)"			1.54	0.88	1.40E-02	0.165
+												
+												
+												
+												
+												
+												
+						"Low_complexity (8hits, 0.191%)"						
+127	CL127	178934	1799	0.078	61.5	"LTR.Copia (39hits, 1.72%)"			25.85	16.62	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (27hits, 0.751%)"						
+						"Low_complexity (5hits, 0.134%)"						
+128	CL128	178831	1795	0.078	61.6	"Simple_repeat (11hits, 0.246%)"	Ty3-INT Ty3/gypsy chromovirus (1 hits 0.0557%)		39.72	26.35	1.00E-03	0.056
+												
+												
+												
+												
+												
+												
+						"Low_complexity (4hits, 0.0973%)"						
+						"LTR.Gypsy (1hits, 0.0257%)"						
+129	CL129	173264	1747	0.076	61.7	"Simple_repeat (138hits, 3.08%)"	Ty1-INT Ty1/copia Tork (1 hits 0.0572%)		27.19	15.86	8.30E-03	0.115
+												
+												
+												
+												
+												
+												
+						"Low_complexity (48hits, 1.13%)"						
+						"LTR.Gypsy (10hits, 0.282%)"						
+						"DNA.CMC.EnSpm (2hits, 0.0779%)"						
+130	CL130	170690	1746	0.076	61.8	"LTR.Gypsy (179hits, 8.53%)"	Ty3-RT Ty3/gypsy Ogre/Tat (92 hits 5.27%)		5.61	2.75	2.20E-02	0.115
+							Ty3-RH Ty3/gypsy Ogre/Tat (50 hits 2.86%)					
+							Ty3-GAG Ty3/gypsy Ogre/Tat (23 hits 1.32%)					
+							Ty3-PROT Ty3/gypsy Ogre/Tat (18 hits 1.03%)					
+							DTH-CD1 NA NA (1 hits 0.0573%......					
+												
+												
+						"Simple_repeat (44hits, 1.16%)"						
+						"Low_complexity (2hits, 0.0387%)"						
+131	CL131	168568	1728	0.075	61.8	"Simple_repeat (286hits, 6.03%)"			50.58	32.64	5.40E-03	0.058
+												
+												
+												
+												
+												
+												
+						"Low_complexity (56hits, 1.36%)"						
+						"DNA.PIF.Harbinger (1hits, 0.0362%)"						
+						"RC.Helitron (1hits, 0.0255%)"						
+132	CL132	170696	1719	0.074	61.9	"LTR.Copia (1491hits, 81.7%)"	Ty1-INT Ty1/copia Bianca (320 hits 18.6%)		6.11	1.63	2.50E-01	1.28
+							Ty1-RT Ty1/copia Bianca (288 hits 16.8%)					
+							Ty1-GAG Ty1/copia Bianca (116 hits 6.75%)					
+							Ty1-PROT Ty1/copia Bianca (65 hits 3.78%)					
+												
+												
+												
+						"Simple_repeat (38hits, 1.4%)"						
+						"Low_complexity (4hits, 0.143%)"						
+133	CL133	154478	1561	0.068	62	"DNA.MULE.MuDR (23hits, 0.932%)"	DTM-CD1 NA NA (346 hits 22.2%)		10.31	4.16	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (30hits, 0.874%)"						
+						"Low_complexity (22hits, 0.577%)"						
+134	CL134	150685	1545	0.067	62	"Low_complexity (34hits, 1.51%)"			42.52	14.43	5.90E+00	17.73
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (26hits, 0.767%)"						
+						"LTR.Gypsy (7hits, 0.275%)"						
+						"DNA.MULE.MuDR (2hits, 0.0803%)"						
+135	CL135	146818	1490	0.065	62.1	"Simple_repeat (21hits, 0.612%)"			2.82	1.27	9.90E-03	0.067
+												
+												
+												
+												
+												
+												
+						"Low_complexity (6hits, 0.218%)"						
+						"LINE.L1 (2hits, 0.128%)"						
+136	CL136	139367	1428	0.062	62.2	"DNA.CMC.EnSpm (164hits, 9.97%)"	DTC-CD1 NA NA (143 hits 10%)		25.49	12.82	7.00E-02	0.35
+							Ty3-RT Ty3/gypsy chromovirus (1 hits 0.07%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (118hits, 4.68%)"						
+						"Low_complexity (16hits, 0.595%)"						
+						"LTR.Gypsy (3hits, 0.0732%)"						
+137	CL137	141003	1419	0.061	62.2	"LTR.Copia (200hits, 12.1%)"	Ty1-RT Ty1/copia Tork (79 hits 5.57%)		34.74	22.2	0.00E+00	0
+							Ty1-RH Ty1/copia Tork (34 hits 2.4%)					
+							Ty1-RT Ty1/copia AleII (3 hits 0.211%)					
+							Ty1-RT Ty1/copia Angela (3 hits 0.211%)					
+							"Ty1-RT Ty1/copia Ivana/Oryco (3 hits 0.211%)<="""" td="""">"					
+												
+												
+						"Simple_repeat (13hits, 0.287%)"						
+						"Low_complexity (6hits, 0.228%)"						
+138	CL138	138844	1405	0.061	62.3	"LTR. (363hits, 18.4%)"			50.18	33.1	1.50E-02	0.142
+												
+												
+												
+												
+												
+												
+						"DNA. (111hits, 5.48%)"						
+						"LTR (47hits, 1.71%)"						
+						"LTR.Copia (10hits, 0.349%)"						
+						"Simple_repeat (5hits, 0.122%)"						
+						"LTR.Gypsy (1hits, 0.0259%)"						
+139	CL139	134692	1379	0.06	62.4	"Simple_repeat (4hits, 0.114%)"			4.13	3.05	1.30E-02	0.145
+140	CL140	134561	1363	0.059	62.4	"Simple_repeat (696hits, 32.1%)"			34.12	10.05	6.40E-01	1.687
+												
+												
+												
+												
+												
+												
+						"Low_complexity (96hits, 4.18%)"						
+						"LTR.Gypsy (32hits, 1.9%)"						
+141	CL141	127072	1288	0.056	62.5	"Simple_repeat (15hits, 0.356%)"	Ty3-RT Ty3/gypsy chromovirus (1 hits 0.0776%)		17.24	11.02	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (9hits, 0.297%)"						
+142	CL142	124511	1266	0.055	62.5	"Low_complexity (5hits, 0.153%)"			1.9	1.19	1.90E-02	0.316
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (4hits, 0.118%)"						
+143	CL143	122273	1247	0.054	62.6	"LTR.Copia (887hits, 65.8%)"	Ty1-INT Ty1/copia unclass(AleI/Retrofit) (150 hits 12%)		10.02	6.33	2.00E-02	0.08
+							Ty1-RT Ty1/copia unclass(AleI/Retrofit) (137 hits 11%)					
+							Ty1-RH Ty1/copia unclass(AleI/Retrofit) (83 hits 6.66%)					
+							Ty1-PROT Ty1/copia unclass(AleI/Retrof......					
+												
+												
+												
+						"Simple_repeat (1hits, 0.0442%)"						
+144	CL144	119995	1228	0.053	62.6	"Simple_repeat (46hits, 1.4%)"			19.38	10.75	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (4hits, 0.171%)"						
+145	CL145	120783	1220	0.053	62.7	"Simple_repeat (264hits, 14.2%)"			26.23	8.61	3.10E-01	0.656
+												
+												
+												
+												
+												
+												
+						"Low_complexity (46hits, 2.61%)"						
+						"LTR.Gypsy (4hits, 0.247%)"						
+146	CL146	115663	1172	0.051	62.7	"Simple_repeat (61hits, 2.51%)"			20.31	12.88	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (17hits, 0.706%)"						
+						"DNA.MULE.MuDR (1hits, 0.0795%)"						
+						"LTR.Copia (1hits, 0.0398%)"						
+147	CL147	106786	1087	0.047	62.8	"LTR.Copia (768hits, 65.6%)"	Ty1-RT Ty1/copia Ivana/Oryco (183 hits 16.8%)		12.79	6.72	0.00E+00	0
+												
+												
+												
+												
+												
+												
+							Ty1-INT Ty1/copia Ivana/Oryco (145 hits 13.3%)					
+							Ty1-RH Ty1/copia Ivana/Oryco (124 hits 11.4%)					
+							Ty1-GAG Ty1/copia Ivana/Oryco (64 hits 5.89%)					
+							Ty1-PROT Ty1/co......					
+148	CL148	106213	1079	0.047	62.8	"LINE.L1 (41hits, 2.65%)"	LINE-RT NA NA (23 hits 2.13%)		3.06	1.76	0.00E+00	0
+149	CL149	106221	1078	0.047	62.9	"Simple_repeat (147hits, 6.31%)"			20.96	10.3	4.80E-02	0.371
+												
+												
+												
+												
+												
+												
+						"Low_complexity (39hits, 1.78%)"						
+						"DNA.MULE.MuDR (2hits, 0.163%)"						
+						"DNA.CMC.EnSpm (1hits, 0.0734%)"						
+150	CL150	105330	1078	0.047	62.9	"LTR.Gypsy (313hits, 25.9%)"	Ty3-RT Ty3/gypsy chromovirus (135 hits 12.5%)		10.2	1.85	4.70E-01	2.412
+							Ty3-GAG Ty3/gypsy chromovirus (110 hits 10.2%)					
+							Ty3-PROT Ty3/gypsy chromovirus (21 hits 1.95%)					
+												
+												
+												
+												
+						"LTR.Copia (43hits, 1.86%)"						
+						"Simple_repeat (1hits, 0.0361%)"						
+151	CL151	104409	1060	0.046	63	"LTR.Copia (456hits, 36.1%)"	Ty1-RT Ty1/copia Tork (145 hits 13.7%)		11.7	5.85	0.00E+00	0
+							Ty1-INT Ty1/copia Tork (111 hits 10.5%)					
+							Ty1-RH Ty1/copia Tork (36 hits 3.4%)					
+							Ty1-GAG Ty1/copia Tork (32 hits 3.02%)					
+							Ty1-PROT Ty1/copia Tork (31 hits 2.92%)					
+							......					
+												
+						"Simple_repeat (46hits, 1.63%)"						
+						"Low_complexity (6hits, 0.248%)"						
+						"LTR.Gypsy (5hits, 0.235%)"						
+152	CL152	105164	1059	0.046	63	"DNA.CMC.EnSpm (30hits, 1.08%)"			1.6	0.76	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (10hits, 0.352%)"						
+						"Simple_repeat (7hits, 0.245%)"						
+153	CL153	103503	1041	0.045	63.1	"Simple_repeat (331hits, 14.3%)"	DTH-CD1 NA NA (2 hits 0.192%)		46.4	31.89	7.20E-03	0.096
+												
+												
+												
+												
+												
+												
+						"DNA (179hits, 11.7%)"						
+						"DNA.PIF.Harbinger (7hits, 0.486%)"						
+						"Low_complexity (4hits, 0.158%)"						
+						"DNA.CMC.EnSpm (1hits, 0.0493%)"						
+154	CL154	99270	1010	0.044	63.1	"Simple_repeat (16hits, 0.608%)"			76.04	56.24	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (1hits, 0.0393%)"						
+155	CL155	99252	1000	0.043	63.2	"Simple_repeat (24hits, 0.82%)"			61.4	38.3	1.50E-01	0.4
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (11hits, 0.662%)"						
+						"Low_complexity (8hits, 0.361%)"						
+						"LTR.Copia (1hits, 0.0524%)"						
+156	CL156	98157	992	0.043	63.2	"LTR.Copia (659hits, 60.3%)"	Ty1-RT Ty1/copia TAR (120 hits 12.1%)		9.27	4.23	5.30E-02	0.403
+							Ty1-INT Ty1/copia TAR (64 hits 6.45%)					
+							Ty1-RH Ty1/copia TAR (62 hits 6.25%)					
+							Ty1-GAG Ty1/copia TAR (42 hits 4.23%)					
+							Ty1-PROT Ty1/copia TAR (41 hits 4.13%)					
+							Ty1-R......					
+												
+						"Simple_repeat (5hits, 0.306%)"						
+						"Low_complexity (1hits, 0.0744%)"						
+157	CL157	94618	962	0.042	63.2	"Simple_repeat (22hits, 1.22%)"			2.7	2.08	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (6hits, 0.336%)"						
+158	CL158	92833	939	0.041	63.3	"Simple_repeat (66hits, 3.5%)"			12.89	5.22	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (15hits, 0.839%)"						
+						"LTR.Gypsy (1hits, 0.0388%)"						
+159	CL159	89962	912	0.04	63.3	"Simple_repeat (73hits, 2.54%)"			10.75	3.18	8.30E-02	0.987
+												
+												
+												
+												
+												
+												
+						"Low_complexity (25hits, 1.26%)"						
+160	CL160	88995	906	0.039	63.4	"Simple_repeat (43hits, 2.07%)"			41.06	24.06	2.10E-02	0.331
+												
+												
+												
+												
+												
+												
+						"Low_complexity (18hits, 0.979%)"						
+						"DNA.MULE.MuDR (1hits, 0.064%)"						
+						"LTR.Gypsy (1hits, 0.0427%)"						
+161	CL161	86912	885	0.038	63.4	"LINE.L1 (173hits, 15.7%)"	LINE-RT NA NA (227 hits 25.6%)		15.71	7.34	0.00E+00	0
+							LINE-RH NA NA (10 hits 1.13%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (1hits, 0.0207%)"						
+162	CL162	85990	872	0.038	63.4	"Simple_repeat (5hits, 0.216%)"			6.42	2.52	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (2hits, 0.0872%)"						
+						"LTR.Gypsy (1hits, 0.0302%)"						
+163	CL163	80858	815	0.035	63.5	"Simple_repeat (82hits, 3.43%)"			19.02	7.97	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (12hits, 0.443%)"						
+						"Low_complexity (11hits, 0.399%)"						
+164	CL164	77232	782	0.034	63.5	"Simple_repeat (14hits, 0.719%)"			4.09	2.17	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (3hits, 0.128%)"						
+165	CL165	74589	756	0.033	63.5	"Simple_repeat (48hits, 3.38%)"			3.44	2.12	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (8hits, 0.441%)"						
+166	CL166	74051	751	0.033	63.6	"Simple_repeat (47hits, 3.45%)"			13.72	5.59	3.40E-02	0.266
+												
+												
+												
+												
+												
+												
+						"DNA.MULE.MuDR (15hits, 1.14%)"						
+						"LTR.Gypsy (9hits, 0.631%)"						
+						"DNA.CMC.EnSpm (1hits, 0.0702%)"						
+						"RC.Helitron (1hits, 0.0594%)"						
+						"Low_complexity (1hits, 0.0446%)"						
+167	CL167	72023	726	0.032	63.6	"Simple_repeat (55hits, 3.9%)"			49.59	36.5	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (17hits, 1.09%)"						
+168	CL168	70589	714	0.031	63.6	"LTR.Gypsy (120hits, 13%)"	Ty3-INT Ty3/gypsy Ogre/Tat (134 hits 18.8%)		7	2.66	0.00E+00	0
+							Ty3-RH Ty3/gypsy Ogre/Tat (36 hits 5.04%)					
+							Ty3-RH Ty3/gypsy Athila (3 hits 0.42%)					
+												
+												
+												
+												
+						"LTR.Copia (16hits, 0.999%)"						
+						"Low_complexity (1hits, 0.0822%)"						
+169	CL169	69334	700	0.03	63.7	"Simple_repeat (11hits, 0.614%)"			27.43	14.57	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (7hits, 0.472%)"						
+170	CL170	69099	695	0.03	63.7	"DNA.MULE.MuDR (5hits, 0.447%)"	DTM-CD1 NA NA (94 hits 13.5%)		15.4	4.32	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (5hits, 0.307%)"						
+						"Low_complexity (2hits, 0.119%)"						
+171	CL171	61547	634	0.028	63.7	"Simple_repeat (3hits, 0.179%)"			4.73	2.68	8.40E-03	0.158
+172	CL172	57489	593	0.026	63.7	"LTR.Gypsy (442hits, 67.4%)"	Ty3-INT Ty3/gypsy chromovirus (165 hits 27.8%)		10.29	6.41	6.00E-02	0.337
+												
+												
+												
+												
+												
+												
+							Ty3-RT Ty3/gypsy chromovirus (119 hits 20.1%)					
+							Ty3-RH Ty3/gypsy chromovirus (75 hits 12.6%)					
+							Ty3-CHDII Ty3/gypsy chromovirus (22 hits 3.71%)					
+173	CL173	53692	551	0.024	63.8	"LTR.Gypsy (65hits, 10%)"	Ty3-GAG Ty3/gypsy chromovirus (47 hits 8.53%)		16.15	7.08	1.40E-01	0.726
+												
+												
+												
+												
+												
+												
+							Ty3-INT Ty3/gypsy chromovirus (21 hits 3.81%)					
+							Ty3-CHDII Ty3/gypsy chromovirus (3 hits 0.544%)					
+174	CL174	53471	539	0.023	63.8	"Simple_repeat (2hits, 0.0898%)"			61.78	39.7	0.00E+00	0
+175	CL175	53359	538	0.023	63.8	"Low_complexity (18hits, 1.45%)"			60.59	40.89	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (8hits, 0.54%)"						
+						"RC.Helitron (1hits, 0.0862%)"						
+176	CL176	52548	528	0.023	63.8	"Simple_repeat (20hits, 1.5%)"	Ty1-RH Ty1/copia AleI/Retrofit (1 hits 0.189%)		22.35	12.88	3.30E-02	0.379
+												
+												
+												
+												
+												
+												
+						"Low_complexity (13hits, 1.01%)"						
+						"LTR.Gypsy (3hits, 0.192%)"						
+						"LTR.Copia (1hits, 0.099%)"						
+177	CL177	51295	518	0.022	63.9	"Simple_repeat (5hits, 0.287%)"			2.32	0.97	0.00E+00	0
+178	CL178	50764	515	0.022	63.9	"LTR.Gypsy (18hits, 2.59%)"	Ty3-GAG Ty3/gypsy Ogre/Tat (27 hits 5.24%)		16.89	5.24	2.90E-02	0.194
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (2hits, 0.0867%)"						
+179	CL179	51050	512	0.022	63.9	"Simple_repeat (37hits, 3.36%)"			30.47	19.92	2.40E-02	0.195
+												
+												
+												
+												
+												
+												
+						"Low_complexity (14hits, 1.38%)"						
+180	CL180	50595	510	0.022	63.9	"LTR.Gypsy (331hits, 59.4%)"	Ty3-RT Ty3/gypsy Ogre/Tat (129 hits 25.3%)		5.88	0.98	2.90E-02	0.196
+												
+												
+												
+												
+												
+												
+							Ty3-RH Ty3/gypsy Ogre/Tat (58 hits 11.4%)					
+							Ty3-RH Ty3/gypsy Athila (11 hits 2.16%)					
+							Ty3-RH Ty3/gypsy chromovirus (1 hits 0.196%)					
+181	CL181	50120	507	0.022	63.9	"Simple_repeat (125hits, 13.8%)"			73.57	55.03	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (8hits, 0.754%)"						
+						"DNA (2hits, 0.251%)"						
+						"LTR.Gypsy (2hits, 0.215%)"						
+182	CL182	49599	499	0.022	64	"Low_complexity (1hits, 0.0645%)"			63.13	41.08	0.00E+00	0
+183	CL183	49076	495	0.021	64	"LTR.Copia (121hits, 19.7%)"	Ty1-INT Ty1/copia Tork (67 hits 13.5%)		11.52	3.84	0.00E+00	0
+							Ty1-PROT Ty1/copia Tork (24 hits 4.85%)					
+							Ty1-INT Ty1/copia AleII (16 hits 3.23%)					
+							Ty1-GAG Ty1/copia Tork (7 hits 1.41%)					
+							Ty1-PROT Ty1/copia Maximus/SIRE (4 hits 0.8......					
+												
+												
+						"Simple_repeat (9hits, 0.848%)"						
+						"Low_complexity (2hits, 0.24%)"						
+184	CL184	47395	480	0.021	64	"LTR.Gypsy (84hits, 14.8%)"	Ty3-RT Ty3/gypsy chromovirus (14 hits 2.92%)		17.08	4.38	2.70E-01	1.25
+							Ty3-RH Ty3/gypsy chromovirus (5 hits 1.04%)					
+												
+												
+												
+												
+												
+						"Simple_repeat (11hits, 0.886%)"						
+185	CL185	45896	467	0.02	64	"Simple_repeat (47hits, 2.63%)"			65.74	47.75	1.30E-02	0.214
+												
+												
+												
+												
+												
+												
+						"Low_complexity (3hits, 0.264%)"						
+186	CL186	42811	437	0.019	64	"Simple_repeat (21hits, 2.03%)"			8.47	3.43	0.00E+00	0
+187	CL187	42759	433	0.019	64.1	"Simple_repeat (18hits, 1.62%)"			22.4	9.01	1.70E-02	0.231
+												
+												
+												
+												
+												
+												
+						"LTR.Gypsy (9hits, 0.669%)"						
+						"Low_complexity (2hits, 0.143%)"						
+188	CL188	42921	431	0.019	64.1	"Simple_repeat (28hits, 2.87%)"			23.9	12.3	0.00E+00	0
+189	CL189	40969	413	0.018	64.1	"LTR.Copia (5hits, 0.937%)"			11.38	8.23	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (6hits, 0.879%)"						
+190	CL190	38061	386	0.017	64.1	"Simple_repeat (23hits, 1.78%)"			4.66	2.07	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (9hits, 0.92%)"						
+191	CL191	37235	374	0.016	64.1	"Simple_repeat (1hits, 0.113%)"			54.55	36.63	1.20E-01	0.267
+192	CL192	37076	373	0.016	64.2	"LTR.Copia (91hits, 20.6%)"	Ty1-RH Ty1/copia Tork (60 hits 16.1%)		36.73	16.09	5.80E-02	0.268
+							Ty1-RH Ty1/copia Ivana/Oryco (16 hits 4.29%)					
+							Ty1-GAG Ty1/copia Tork (9 hits 2.41%)					
+							Ty1-RH Ty1/copia AleII (2 hits 0.536%)					
+												
+												
+												
+						"Simple_repeat (22hits, 2.16%)"						
+						"Low_complexity (4hits, 0.477%)"						
+193	CL193	36695	371	0.016	64.2	"LINE.L1 (72hits, 13.6%)"	LINE-RT NA NA (137 hits 36.9%)		23.45	7.01	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (1hits, 0.106%)"						
+194	CL194	36525	369	0.016	64.2				50.14	27.64	0.00E+00	0
+195	CL195	36087	367	0.016	64.2	"Simple_repeat (6hits, 0.643%)"			10.08	3.27	0.00E+00	0
+196	CL196	35526	363	0.016	64.2	"Simple_repeat (60hits, 6.95%)"			25.07	14.33	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (7hits, 0.766%)"						
+197	CL197	35889	360	0.016	64.2	"Simple_repeat (20hits, 2.09%)"			4.44	2.22	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (13hits, 1.44%)"						
+198	CL198	35019	357	0.015	64.2		LINE-RH NA NA (4 hits 1.12%)		62.46	32.21	0.00E+00	0
+199	CL199	34265	348	0.015	64.3	"Simple_repeat (23hits, 2.53%)"			51.72	14.94	3.90E-01	4.31
+												
+												
+												
+												
+												
+												
+						"Low_complexity (9hits, 1.33%)"						
+200	CL200	33356	341	0.015	64.3	"LTR.Copia (8hits, 0.552%)"			9.68	4.69	5.30E-02	0.293
+201	CL201	32959	340	0.015	64.3	"LTR.Gypsy (105hits, 27.3%)"	Ty3-GAG Ty3/gypsy chromovirus (96 hits 28.2%)		9.41	2.65	1.20E-01	0.882
+												
+												
+												
+												
+												
+												
+							Ty3-PROT Ty3/gypsy chromovirus (39 hits 11.5%)					
+202	CL202	32468	329	0.014	64.3	"Simple_repeat (23hits, 3.53%)"			17.33	5.17	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (4hits, 0.647%)"						
+203	CL203	31770	322	0.014	64.3	"DNA.hAT.Ac (49hits, 13.1%)"			4.97	1.86	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (1hits, 0.154%)"						
+204	CL204	30653	318	0.014	64.3		Ty3-GAG Ty3/gypsy Ogre/Tat (13 hits 4.09%)		22.01	9.12	0.00E+00	0
+												
+												
+												
+												
+												
+												
+							Ty3-GAG Ty3/gypsy Athila (7 hits 2.2%)					
+205	CL205	31152	316	0.014	64.3	"LINE.L1 (10hits, 2.73%)"	LINE-RH NA NA (9 hits 2.85%)		15.19	6.96	6.20E-02	0.317
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (2hits, 0.212%)"						
+206	CL206	31167	315	0.014	64.4	"Simple_repeat (1hits, 0.0898%)"			49.84	27.94	4.30E-02	0.318
+207	CL207	29043	296	0.013	64.4				8.11	2.37	3.60E-02	0.338
+208	CL208	28897	295	0.013	64.4	"LINE.L1 (95hits, 19.6%)"	LINE-ENDO NA NA (67 hits 22.7%)		75.59	40	2.10E-01	0.678
+209	CL209	28355	286	0.012	64.4	"Low_complexity (5hits, 0.924%)"			7.69	3.5	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (7hits, 0.702%)"						
+210	CL210	28166	283	0.012	64.4	"Simple_repeat (37hits, 5.3%)"			66.08	39.58	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (15hits, 2.51%)"						
+211	CL211	27624	277	0.012	64.4	"DNA.PIF.Harbinger (9hits, 1.36%)"			49.46	31.05	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (3hits, 0.409%)"						
+						"LTR.Copia (1hits, 0.156%)"						
+						"Low_complexity (1hits, 0.112%)"						
+212	CL212	27551	277	0.012	64.4	"Simple_repeat (12hits, 1.67%)"			37.18	25.27	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (2hits, 0.334%)"						
+213	CL213	27395	276	0.012	64.4	"DNA.CMC.EnSpm (168hits, 55.5%)"	DTC-CD1 NA NA (143 hits 51.8%)		14.49	1.81	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (13hits, 1.43%)"						
+214	CL214	27304	275	0.012	64.5	"LTR.Copia (4hits, 0.78%)"	Ty1-GAG Ty1/copia Tork (23 hits 8.36%)		62.18	33.82	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Simple_repeat (1hits, 0.0842%)"						
+215	CL215	26779	270	0.012	64.5	"Simple_repeat (5hits, 1.19%)"			18.52	8.15	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (4hits, 0.818%)"						
+216	CL216	25062	257	0.011	64.5	"Simple_repeat (34hits, 6.72%)"			28.4	13.62	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (4hits, 0.862%)"						
+217	CL217	24891	253	0.011	64.5	"DNA.MULE.MuDR (4hits, 1.54%)"	DTM-CD1 NA NA (109 hits 43.1%)		9.09	1.58	0.00E+00	0
+218	CL218	25047	253	0.011	64.5	"LTR.Gypsy (17hits, 4.32%)"	Ty3-RH Ty3/gypsy Ogre/Tat (49 hits 19.4%)		65.22	33.6	1.90E-01	0.395
+219	CL219	24264	244	0.011	64.5	"Simple_repeat (12hits, 2.12%)"			63.11	39.75	0.00E+00	0
+												
+												
+												
+												
+												
+												
+						"Low_complexity (5hits, 1.04%)"						
+						"DNA.hAT.Ac (1hits, 0.293%)"						
+220	CL220	23918	243	0.011	64.5				13.58	2.88	0.00E+00	0
+221	CL221	23783	239	0.01	64.5	"LTR.Gypsy (40hits, 10.3%)"			28.87	10.46	5.00E-02	0.418
+												
+												
+												
+												
+												
+												
+						"LTR.Copia (35hits, 10.2%)"						
+						"Low_complexity (14hits, 2.56%)"						
+						"Simple_repeat (12hits, 2.16%)"						

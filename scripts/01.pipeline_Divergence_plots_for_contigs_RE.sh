@@ -70,7 +70,7 @@ sed -i 's/Contig/\tContig/' ${sraid}.subcov100.pi
 #perl ~/Apps/popoolation_1.2.2/Variance-sliding.pl --measure D --input ${4}.subcov100.pileup --output ${4}.subcov100.D --pool-size 1000 --min-count 2 --min-covered-fraction 0
 #sed -i 's/Contig/\tContig/' ${4}.subcov100.D
 
-#avgDepth=`cat ${sraid}_avgDepth.txt`
+avgDepth=`cat ${sraid}_avgDepth.txt`
 perl ${SCRIPT_PATH}/01.03.join_avg_cover_pi.pl  ${sraid}.subcov100.pi ${sraid}.avg.cov.txt ${avgDepth} ${sraid}.subcov100.mod.pi
 #perl ${SCRIPT_PATH}/01.03.join_avg_cover_pi.pl  ${sraid}.subcov100.D ${sraid}.avg.cov.txt ${avgDepth} ${sraid}.subcov100.mod.D
 

@@ -29,7 +29,7 @@ write.csv(df, file=paste(strsplit(jsonFile, "\\.")[[1]][1], ".df.csv", sep = "")
 ##
 
 library("seqinr")
-genome_dir <- "/vol/HOME/mygit/ExploringTEsinCannabisGenome/genome_uso/"
+genome_dir <- "~/mygit/ExploringTEsinCannabisGenome/genome_uso/"
 
 ## Inputting data
 contigsfasta <- read.fasta(file = file.path(genome_dir, "Repeat_contigs_RE_min500bp.fa"), seqtype = "DNA",as.string = TRUE, set.attributes = FALSE, forceDNAtolower= F)

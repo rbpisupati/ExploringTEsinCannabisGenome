@@ -1,34 +1,45 @@
 # Print average coverage, divergence, slope and halfLife for the cluster with many contigs
-
+library(data.table)
 args  <- commandArgs(TRUE)
-data <- read.csv(args[1], header=F, sep="\t")
-logCove <- log (x = data$V7)
 
-if(nrow(data) == 1){
-  outLine <- paste(data$V7, "NA", data$V6, "NA", "NA", "NA", sep = "\t" )
-  sink(file = "temp.fin")
-  cat(outLine)
-  sink()
+#subcov5k.pi.file <- "/lustre/scratch/users/rahul.pisupati/exploringRE/genome_finola/SRR351929.subcov100.mod.pi"
+#re.summary.file <- "~/mygit/ExploringTEsinCannabisGenome/genome_fin/summary_RE.csv" 
+
+subcov5k.pi.file <- args[1]
+re.summary.file <- args[2]
+
+out.file <- "TEfamilies_CLwise_final_table.csv"
+re.summary <- fread(re.summary.file, header = F)
+pi_values <- read.csv(file=subcov5k.pi.file,header=FALSE,sep="\t")
+
+clusters <- as.character(unique(pi_values$V1))
+
+final.tefam <- as.data.frame(matrix(nrow=length(clusters),ncol=11))
+final.tefam.cols <- c("Cluster ID",	"Average Coverage",	"SD Coverage",	"Average Divergence",	"SD Divergence",	"Slope",	"Estimated Half-life",	"Top Hit",	"No. of Hits",	"%cluster",	"%genome")
+
+for (cl in clusters){
+  cl.data <- pi_values[which(pi_values$V1 == cl),]
+  cl.ind <- which(clusters == cl)
+  final.tefam[cl.ind,1] <- cl
+  if(nrow(cl.data) > 1){
+    # Average copy number
+    final.tefam[cl.ind,2] <- mean(cl.data$V7)
+    final.tefam[cl.ind,3] <- sd(cl.data$V7)
+    # Average divergence
+    final.tefam[cl.ind,4] <- mean(cl.data$V6)
+    final.tefam[cl.ind,5] <- sd(cl.data$V6)
+    # Printing slope of regression line
+    slope <- lm(log10(x = cl.data$V7)~cl.data$V6)
+    final.tefam[cl.ind,6] <- as.character(slope$coefficients[2])
+    final.tefam[cl.ind,7] <- as.numeric(-log(2)/slope$coefficients[2])
+    top.hit.row <- re.summary[which(re.summary$V2 == cl),]
+    top.hit.family <- gsub("\\)", "",gsub("\\(","",sub(",","",unlist(strsplit(top.hit.row$V7, split = " ")))))
+    try(final.tefam[cl.ind,c(8,9,10)] <- top.hit.family, silent = T)
+    try(final.tefam[cl.ind,11] <- top.hit.row$V5, silent = T)
+  }
 }
 
-else {
-  # Average copy number
-  aveCov <- mean(data$V7)
-  sdCov <- sd(data$V7)
-  
-  # Average divergence
-  aveDiv <- mean(data$V6)
-  sdDiv <- sd(data$V6)
-  
-  # Printing slope of regression line
-  slope <- lm(logCove~data$V6)
-  halfLife <- -log(2)/slope$coefficients[2]
-  
-  # Variable for line
-  outLine <- paste( aveCov, sdCov, aveDiv, sdCov, slope$coefficients[2], halfLife, sep = "\t")
-  
-  # Printing whole line into a temp file
-  sink(file = "temp.fin")
-  cat(outLine)
-  sink()
-}
+colnames(final.tefam) <- final.tefam.cols
+
+write.csv(x = final.tefam, file = out.file)
+

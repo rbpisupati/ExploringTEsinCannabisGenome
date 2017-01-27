@@ -1,34 +1,42 @@
 # Plot for divergence
+library(RColorBrewer)
 setwd("~/Documents/Projects/Summer'14/")
-pi_values <- read.csv(file="./genome_pk/SRR352164_500bprepeats.sub5kcov.mod.pi",header=FALSE,sep="\t")
+setwd("/lustre/scratch/users/rahul.pisupati/exploringRE/genome_uso/")
+cex.plot <- 1.3
+colors.div <- brewer.pal(4, "Set2")
+
+subcov5k.pi.file <- "/lustre/scratch/users/rahul.pisupati/exploringRE/genome_uso/SRR351494.subcov100.mod.pi"
+subcov5k.pi.file <- "~/mygit/ExploringTEsinCannabisGenome/genome_uso/windPivalues_meanDepth.txt"
+subcov5k.pi.file <- "/lustre/scratch/users/rahul.pisupati/exploringRE/genome_pk/SRR352164.subcov100.mod.pi"
+
+pi_values <- read.csv(file=subcov5k.pi.file,header=FALSE,sep="\t")
 log_cove <- log10(x = pi_values$V7)
-# Subsets with lower divergence
-abline(v=0.008)
-abline(h=8)
-abline(v=mean(pi_values$V6)+2*sd(pi_values$V6))
 
-abline(h=mean(log_cove)-sd(log_cove))
-hist(log_cove)
-#_________________________
-
-par(mfrow = c(2, 2), mgp = c(3, 1, 0), las = 3)
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=0.3, cex.lab=1, cex.axis=1)
-
-abline(reg <- lm(pi_values$V7~pi_values$V6), lwd = 1.5)
-hist(pi_values$V6)
+ylim <- c(1,3)
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex.lab=cex.plot, cex.axis=cex.plot, col = colors.div[1])
 
 #_________________________
 #Plot the graphs in a layout 
 #
 par(fig=c(0,0.8,0,0.8), new=TRUE)
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=0.3, cex.lab=1, cex.axis=1)
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex.lab=cex.plot, cex.axis=cex.plot, col = colors.div[1],ylim = ylim)
 par(fig=c(0,0.8,0.55,1), new=TRUE)
 boxplot(pi_values$V6, horizontal = T, axes = F)
 par(fig=c(0.65,1,0,0.8),new=TRUE)
 boxplot(log_cove, axes = F)
 mtext("Enhanced Scatterplot", side=3, outer=TRUE, line=-3)
 
-help(layout)
+## Check for the specific sequences
+xlim = 0.01
+ylim = 2.2
+abline(v=xlim)
+abline(h=ylim)
+pi_values[which((pi_values$V6 < xlim) & (log_cove > ylim)), c("V1","V2")]
+
+check.seq <- c(608,1)
+check.ind <- which((pi_values$V1 == paste("CL", check.seq[1], sep="")) & (pi_values$V2 == paste("Contig", check.seq[2], sep="")))
+points(pi_values$V6[check.ind], log_cove[check.ind], col = "red", pch = 19)
+
 #_________________________
 #Histograms for different LTR elements
 divergenceCLwise <- read.csv(file="PUR.final.TEfam.csv", header = T)
@@ -53,8 +61,6 @@ for (i in 1:nrow(repwiseCL)){
 }
 boxplot(divergenceGypsy)
 
-print(sed"LTR.Gypsy" %in% divergenceCLwise$Top.Hit)
-unique(divergenceCLwise$Top.Hit)
 
 #----------------------------
 # Color the divergence plot based on the TE family of top hit element
@@ -85,80 +91,89 @@ log_cl41 <- log10(x = cl41$V7)
 points(cl41$V6, log_cl41, col="green", pch=15, cex=1.5)
 abline(lm(log_cl41~cl41$V6), lwd=2, col="green")
 
+
+### ______________
+### Figure 3
+### ______________
+
 library(RColorBrewer)
-display.brewer.all(5)
+#display.brewer.all(5)
 color_rep <- brewer.pal(5, "Set1")
 
 layout(matrix(c(1,1,2,2,0,3,3,0), 2, 4, byrow = T))
+cex.plot = 1.3
+cex.point = 0.8
+cex.high.point=1.8
+line.width=1.6
 
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=0.3, main = "(a)", col = "grey")
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(a)", col = "grey", cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
 #_________________________
 rep_maximaCopia <- subset(pi_values, pi_values$V1 =="CL41" | pi_values$V1 =="CL77" | pi_values$V1 =="CL100")
 log_maximCopia <- log10(x = rep_maximaCopia$V7)
-points(rep_maximaCopia$V6, log_maximCopia, col=color_rep[5], pch=15, cex=1)
+points(rep_maximaCopia$V6, log_maximCopia, col=color_rep[5], pch=19, cex=cex.high.point)
 sepCluster <- rep_maximaCopia
 clusters <- unique(sepCluster$V1)
 for (i in 1:length(clusters)){
   req <- subset(sepCluster,  sepCluster$V1 == clusters[i] )
   log_req <- log10(x = req$V7)
   if (nrow(req) > 1){
-    abline(lm(log_req~req$V6), col = color_rep[5], lwd=1)
+    abline(lm(log_req~req$V6), col = color_rep[5], lwd=line.width)
   }
 }
 #_________________________
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=0.3, main = "(b)", col = "grey")
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(b)", col = "grey", cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
 #_________________________
 
 rep_chromoGypsy <- subset(pi_values, pi_values$V1 =="CL19" | pi_values$V1 =="CL20" | pi_values$V1 =="CL28" | pi_values$V1 =="CL40" | pi_values$V1 =="CL67" | pi_values$V1 =="CL83" | pi_values$V1 =="CL84" | pi_values$V1 =="CL125" | pi_values$V1 =="CL126" | pi_values$V1 =="CL129" | pi_values$V1 =="CL161")
 log_chromoGypsy <- log10(x = rep_chromoGypsy$V7)
-points(rep_chromoGypsy$V6, log_chromoGypsy, col=color_rep[3], pch=16, cex=1)
+points(rep_chromoGypsy$V6, log_chromoGypsy, col=color_rep[3], pch=19, cex=cex.high.point)
 clusters <- unique(rep_chromoGypsy$V1)
 for (i in 1:length(clusters)){
   req <- subset(rep_chromoGypsy,  rep_chromoGypsy$V1 == clusters[i] )
   log_req <- log10(x = req$V7)
   if (nrow(req) > 1){
-    abline(lm(log_req~req$V6), col = color_rep[3], lwd=1)
+    abline(lm(log_req~req$V6), col = color_rep[3], lwd=line.width)
   }
 }
 #_________________________
 rep_athilaGypsy <- subset(pi_values, pi_values$V1 =="CL29" | pi_values$V1 =="CL109" | pi_values$V1 =="CL138")
 log_athila <- log10(x = rep_athilaGypsy$V7)
-points(rep_athilaGypsy$V6, log_athila, col=color_rep[4], pch=16, cex=1)
+points(rep_athilaGypsy$V6, log_athila, col=color_rep[4], pch=19, cex=cex.high.point)
 sepCluster <- rep_athilaGypsy
 clusters <- unique(sepCluster$V1)
 for (i in 1:length(clusters)){
   req <- subset(sepCluster,  sepCluster$V1 == clusters[i] )
   log_req <- log10(x = req$V7)
   if (nrow(req) > 1){
-    abline(lm(log_req~req$V6), col = color_rep[4], lwd=1)
+    abline(lm(log_req~req$V6), col = color_rep[4], lwd=line.width)
   }
 }
 #_________________________
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=0.3, main = "(c)", col = "grey")
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(c)", col = "grey",cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
 #_________________________
 rRNA <- subset(pi_values,  pi_values$V1 =="CL52" | pi_values$V1 =="CL56" | pi_values$V1 =="CL62" | pi_values$V1 =="CL76" | pi_values$V1 =="CL80" | pi_values$V1 =="CL82")
 log_rrna <- log10(x = rRNA$V7)
-points(rRNA$V6, log_rrna, col=color_rep[2], pch=18, cex=1.5)
-sepCluster <- rRNA
-clusters <- unique(sepCluster$V1)
-for (i in 1:length(clusters)){
-  req <- subset(sepCluster,  sepCluster$V1 == clusters[i] )
-  log_req <- log10(x = req$V7)
-  if (nrow(req) > 1){
-    abline(lm(log_req~req$V6), col = color_rep[2], lwd=1)
-  }
-}
+points(rRNA$V6, log_rrna, col=color_rep[2], pch=19, cex=cex.high.point)
+#sepCluster <- rRNA
+#clusters <- unique(sepCluster$V1)
+# for (i in 1:length(clusters)){
+#   req <- subset(sepCluster,  sepCluster$V1 == clusters[i] )
+#   log_req <- log10(x = req$V7)
+#   if (nrow(req) > 1){
+#     abline(lm(log_req~req$V6), col = color_rep[2], lwd=line.width)
+#   }
+# }
 #_________________________
 rep_simple <- subset(pi_values, pi_values$V1 == "CL6" | pi_values$V1 =="CL46" | pi_values$V1 =="CL57" | pi_values$V1 =="CL133" | pi_values$V1 =="CL211" | pi_values$V1 =="CL216" | pi_values$V1 =="CL218" | pi_values$V1 =="CL232" | pi_values$V1 =="CL241")
 log_simple <- log10(x = rep_simple$V7)
-points(rep_simple$V6, log_simple, col=color_rep[1], pch=17, cex=1)
-sepCluster <- rep_simple
-clusters <- unique(sepCluster$V1)
+points(rep_simple$V6, log_simple, col=color_rep[1], pch=19, cex=cex.high.point)
+#sepCluster <- rep_simple
+#clusters <- unique(sepCluster$V1)
 #for (i in 1:length(clusters)){
 #  req <- subset(sepCluster,  sepCluster$V1 == clusters[i] )
 #  log_req <- log10(x = req$V7)
 #  if (nrow(req) > 1){
-#    abline(lm(log_req~req$V6), col = color_rep[1], lwd = 1)
+#    abline(lm(log_req~req$V6), col = color_rep[1], lwd = line.width)
 #  }
 #}
 #_________________________
