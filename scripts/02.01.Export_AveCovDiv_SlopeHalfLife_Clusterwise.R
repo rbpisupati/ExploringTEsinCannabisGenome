@@ -21,25 +21,29 @@ for (cl in clusters){
   cl.data <- pi_values[which(pi_values$V1 == cl),]
   cl.ind <- which(clusters == cl)
   final.tefam[cl.ind,1] <- cl
-  if(nrow(cl.data) > 1){
-    # Average copy number
-    final.tefam[cl.ind,2] <- mean(cl.data$V7)
-    final.tefam[cl.ind,3] <- sd(cl.data$V7)
-    # Average divergence
-    final.tefam[cl.ind,4] <- mean(cl.data$V6)
-    final.tefam[cl.ind,5] <- sd(cl.data$V6)
-    # Printing slope of regression line
-    slope <- lm(log10(x = cl.data$V7)~cl.data$V6)
-    final.tefam[cl.ind,6] <- as.character(slope$coefficients[2])
-    final.tefam[cl.ind,7] <- as.numeric(-log(2)/slope$coefficients[2])
-    top.hit.row <- re.summary[which(re.summary$V2 == cl),]
-    top.hit.family <- gsub("\\)", "",gsub("\\(","",sub(",","",unlist(strsplit(top.hit.row$V7, split = " ")))))
-    try(final.tefam[cl.ind,c(8,9,10)] <- top.hit.family, silent = T)
-    try(final.tefam[cl.ind,11] <- top.hit.row$V5, silent = T)
-  }
+  # Average copy number
+  final.tefam[cl.ind,2] <- mean(cl.data$V7)
+  final.tefam[cl.ind,3] <- sd(cl.data$V7)
+  # Average divergence
+  final.tefam[cl.ind,4] <- mean(cl.data$V6)
+  final.tefam[cl.ind,5] <- sd(cl.data$V6)
+  # Printing slope of regression line
+  slope <- lm(log10(x = cl.data$V7)~cl.data$V6)
+  final.tefam[cl.ind,6] <- as.character(slope$coefficients[2])
+  final.tefam[cl.ind,7] <- as.numeric(-log(2)/slope$coefficients[2])
+  top.hit.row <- re.summary[which(re.summary$V2 == cl),]
+  top.hit.family <- gsub("\\)", "",gsub("\\(","",sub(",","",unlist(strsplit(top.hit.row$V7, split = " ")))))
+  try(final.tefam[cl.ind,c(8,9,10)] <- top.hit.family, silent = T)
+  try(final.tefam[cl.ind,11] <- top.hit.row$V5, silent = T)
 }
 
 colnames(final.tefam) <- final.tefam.cols
+
+## Filtering for rows which are not complete
+# sorting based on the cluster number
+final.tefam <- final.tefam[complete.cases(final.tefam[,c(8,9,10,11)]),]
+final.tefam <- final.tefam[order(as.numeric(sub("CL","",final.tefam[,1]))),]
+rownames(final.tefam) <- NULL
 
 write.csv(x = final.tefam, file = out.file)
 
