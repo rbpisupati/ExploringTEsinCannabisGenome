@@ -1,20 +1,21 @@
 ## ANOVA between the different genomes.
 library(RColorBrewer)
 setwd("~/Documents/Projects/Summer'14/")
+setwd("~/mygit/ExploringTEsinCannabisGenome/")
 ## Environment files are from a new project
-mor_tes <- read.csv("./TEs_times_genomes/MOR.final.TEfam.csv", as.is = T)
+mor_tes <- read.csv("./genome_mor/TEfamilies_CLwise_final_table.csv", as.is = T)
 mor_tes_sub <- subset(mor_tes, mor_tes$Estimated.Half.life > 0 & mor_tes$Estimated.Half.life < 1)
 #mor_tes_sub <- subset(mor_tes, mor_tes$Estimated.Half.life > 0)
-hum_tes <- read.csv("./TEs_times_genomes/HUM.final.TEfam.csv", as.is = T)
+hum_tes <- read.csv("./genome_hum/TEfamilies_CLwise_final_table.csv", as.is = T)
 hum_tes_sub <- subset(hum_tes, hum_tes$Estimated.Half.life > 0 & hum_tes$Estimated.Half.life < 1)
 #hum_tes_sub <- subset(hum_tes, hum_tes$Estimated.Half.life > 0)
-uso_tes <- read.csv("./TEs_times_genomes/USO.final.TEfam.csv", as.is = T)
+uso_tes <- read.csv("./genome_uso/TEfamilies_CLwise_final_table.csv", as.is = T)
 uso_tes_sub <- subset(uso_tes, uso_tes$Estimated.Half.life > 0 & uso_tes$Estimated.Half.life < 1)
 #uso_tes_sub <- subset(uso_tes, uso_tes$Estimated.Half.life > 0)
-pur_tes <- read.csv("./TEs_times_genomes/PUR.final.TEfam.mod.csv", as.is = T)
+pur_tes <- read.csv("./genome_pk/TEfamilies_CLwise_final_table.csv", as.is = T)
 pur_tes_sub <- subset(pur_tes, pur_tes$Estimated.Half.life > 0 & pur_tes$Estimated.Half.life < 1)
 #pur_tes_sub <- subset(pur_tes, pur_tes$Estimated.Half.life > 0)
-fin_tes <- read.csv("./TEs_times_genomes/FIN.final.TEfam.csv", as.is = T)
+fin_tes <- read.csv("./genome_fin/TEfamilies_CLwise_final_table.csv", as.is = T)
 fin_tes_sub <- subset(fin_tes, fin_tes$Estimated.Half.life > 0 & fin_tes$Estimated.Half.life < 1)
 #fin_tes_sub <- subset(fin_tes, fin_tes$Estimated.Half.life > 0)
 
@@ -65,11 +66,17 @@ addSegment <- function(x1, x2, y, label, lwd, cex){
 }
 
 display.brewer.all(5)
-figure3 <- boxplot(100 * pur_tes_sub$Estimated.Half.life, 100 * fin_tes_sub$Estimated.Half.life, 100 * uso_tes_sub$Estimated.Half.life, 100 * hum_tes_sub$Estimated.Half.life, 100 * mor_tes_sub$Estimated.Half.life, names = c("PK", "FIN", "USO", "HUM", "MOR"), ylim = c(0, 50), col = brewer.pal(5, "Pastel1"), ylab = "Estimated half life (% divergence)", notch = F, outline = T, cex = 0.7)
-addSegment(1, 2, 30, "NS", lwd = 1, cex = 0.6)
-addSegment(1, 3, 35, "NS", lwd = 1, cex = 0.6)
-addSegment(1, 5, 45, "**", lwd = 1, cex = 1.7)
-addSegment(1, 4, 40, "*", lwd = 1, cex = 1.5)
+cex.plot = 1.3
+line.width = 1.2
+cex.low = 0.8
+cex.high = 2.5
+
+figure3 <- boxplot(100 * pur_tes_sub$Estimated.Half.life, 100 * fin_tes_sub$Estimated.Half.life, 100 * uso_tes_sub$Estimated.Half.life, 100 * hum_tes_sub$Estimated.Half.life, 100 * mor_tes_sub$Estimated.Half.life, names = c("PK", "FIN", "USO", "HUM", "MOR"), ylim = c(0, 50), col = brewer.pal(5, "Pastel1"), ylab = "", notch = F, outline = T, cex.axis = cex.plot)
+mtext("Estimated half life (% divergence)", side=2, line=2.5, cex=cex.plot)
+addSegment(1, 2, 30, "NS", lwd = line.width, cex = cex.low)
+addSegment(1, 3, 35, "NS", lwd = line.width, cex = cex.low)
+addSegment(1, 5, 45, "**", lwd = line.width, cex = cex.high)
+addSegment(1, 4, 40, "*", lwd = line.width, cex = cex.high * 1.2)
 
 #####  ARCHIVE commands
 
