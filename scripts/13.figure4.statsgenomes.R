@@ -1,6 +1,6 @@
 ## ANOVA between the different genomes.
 library(RColorBrewer)
-setwd("~/Documents/Projects/Summer'14/")
+setwd("~/Documents/Projects/Summer'14/GitHub/ExploringTEsinCannabisGenome/")
 setwd("~/mygit/ExploringTEsinCannabisGenome/")
 ## Environment files are from a new project
 mor_tes <- read.csv("./genome_mor/TEfamilies_CLwise_final_table.csv", as.is = T)
@@ -32,27 +32,28 @@ summary(tes.aov)
 plot(TukeyHSD(tes.aov), las = 1)
 
 
-#Difference in the means between the genomes
-
-pur_tes_sub$Estimated.Half.life
-t.test(pur_tes_sub$Estimated.Half.life, fin_tes_sub$Estimated.Half.life)
-t.test(pur_tes_sub$Estimated.Half.life, uso_tes_sub$Estimated.Half.life)
-t.test(pur_tes_sub$Estimated.Half.life, mor_tes_sub$Estimated.Half.life)
-t.test(pur_tes_sub$Estimated.Half.life, hum_tes_sub$Estimated.Half.life)
-
-t.test(mor_tes_sub$Estimated.Half.life, hum_tes_sub$Estimated.Half.life)
-t.test(mor_tes_sub$Estimated.Half.life, fin_tes_sub$Estimated.Half.life)
-t.test(mor_tes_sub$Estimated.Half.life, uso_tes_sub$Estimated.Half.life)
-
-
+## Difference in the means between the genomes
 ## We do the Wilcox-Mann Whitney test
+t.test(pur_tes_sub$Estimated.Half.life, fin_tes_sub$Estimated.Half.life)
 wilcox.test(pur_tes_sub$Estimated.Half.life, fin_tes_sub$Estimated.Half.life)
+
+t.test(pur_tes_sub$Estimated.Half.life, uso_tes_sub$Estimated.Half.life)
 wilcox.test(pur_tes_sub$Estimated.Half.life, uso_tes_sub$Estimated.Half.life)
+
+t.test(pur_tes_sub$Estimated.Half.life, mor_tes_sub$Estimated.Half.life)
 wilcox.test(pur_tes_sub$Estimated.Half.life, mor_tes_sub$Estimated.Half.life)
+
+t.test(pur_tes_sub$Estimated.Half.life, hum_tes_sub$Estimated.Half.life)
 wilcox.test(pur_tes_sub$Estimated.Half.life, hum_tes_sub$Estimated.Half.life)
 
+
+t.test(mor_tes_sub$Estimated.Half.life, hum_tes_sub$Estimated.Half.life)
 wilcox.test(mor_tes_sub$Estimated.Half.life, hum_tes_sub$Estimated.Half.life)
+
+t.test(mor_tes_sub$Estimated.Half.life, fin_tes_sub$Estimated.Half.life)
 wilcox.test(mor_tes_sub$Estimated.Half.life, fin_tes_sub$Estimated.Half.life)
+
+t.test(mor_tes_sub$Estimated.Half.life, uso_tes_sub$Estimated.Half.life)
 wilcox.test(mor_tes_sub$Estimated.Half.life, uso_tes_sub$Estimated.Half.life)
 
 
@@ -70,13 +71,14 @@ cex.plot = 1.3
 line.width = 1.2
 cex.low = 0.8
 cex.high = 2.5
+start.bars <- 32 
 
 figure3 <- boxplot(100 * pur_tes_sub$Estimated.Half.life, 100 * fin_tes_sub$Estimated.Half.life, 100 * uso_tes_sub$Estimated.Half.life, 100 * hum_tes_sub$Estimated.Half.life, 100 * mor_tes_sub$Estimated.Half.life, names = c("PK", "FIN", "USO", "HUM", "MOR"), ylim = c(0, 50), col = brewer.pal(5, "Pastel1"), ylab = "", notch = F, outline = T, cex.axis = cex.plot)
 mtext("Estimated half life (% divergence)", side=2, line=2.5, cex=cex.plot)
-addSegment(1, 2, 30, "NS", lwd = line.width, cex = cex.low)
-addSegment(1, 3, 35, "NS", lwd = line.width, cex = cex.low)
-addSegment(1, 5, 45, "**", lwd = line.width, cex = cex.high)
-addSegment(1, 4, 40, "*", lwd = line.width, cex = cex.high * 1.2)
+addSegment(1, 2, start.bars, "NS", lwd = line.width, cex = cex.low)
+addSegment(1, 3, start.bars+5, "*", lwd = line.width, cex = cex.high)
+addSegment(1, 5, start.bars+15, "**", lwd = line.width, cex = cex.high)
+addSegment(1, 4, start.bars+10, "NS", lwd = line.width, cex = cex.low)
 
 #####  ARCHIVE commands
 

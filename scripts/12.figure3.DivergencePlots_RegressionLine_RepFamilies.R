@@ -7,13 +7,21 @@ colors.div <- brewer.pal(4, "Set2")
 
 subcov5k.pi.file <- "/lustre/scratch/users/rahul.pisupati/exploringRE/genome_uso/SRR351494.subcov100.mod.pi"
 subcov5k.pi.file <- "~/mygit/ExploringTEsinCannabisGenome/genome_uso/windPivalues_meanDepth.txt"
+subcov5k.pi.file <- "./GitHub/ExploringTEsinCannabisGenome/genome_pk/SRR352164.subcov100.mod.pi"
 subcov5k.pi.file <- "/lustre/scratch/users/rahul.pisupati/exploringRE/genome_pk/SRR352164.subcov100.mod.pi"
 
 pi_values <- read.csv(file=subcov5k.pi.file,header=FALSE,sep="\t")
 log_cove <- log10(x = pi_values$V7)
 
 ylim <- c(1,3)
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex.lab=cex.plot, cex.axis=cex.plot, col = colors.div[1])
+
+color.addalpha <- function(reqCol, alpha = 50){
+  alpha = (100-alpha)*255/100
+  newCol = rgb(col2rgb(reqCol)[1], col2rgb(reqCol)[2], col2rgb(reqCol)[3], alpha = alpha, max = 255) 
+  return(newCol)
+}
+
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex.lab=cex.plot, cex.axis=cex.plot, col = color.addalpha(colors.div[2], 50))
 
 #_________________________
 #Plot the graphs in a layout 
@@ -99,6 +107,8 @@ abline(lm(log_cl41~cl41$V6), lwd=2, col="green")
 library(RColorBrewer)
 #display.brewer.all(5)
 color_rep <- brewer.pal(5, "Set1")
+color_rep <- as.character(sapply(color_rep, function(x){color.addalpha(x, alpha = 20)}))
+color_backgroud <- color.addalpha("darkgrey", 40)
 
 layout(matrix(c(1,1,2,2,0,3,3,0), 2, 4, byrow = T))
 cex.plot = 1.3
@@ -106,7 +116,7 @@ cex.point = 0.8
 cex.high.point=1.8
 line.width=1.6
 
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(a)", col = "grey", cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(a)", col = color_backgroud, cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
 #_________________________
 rep_maximaCopia <- subset(pi_values, pi_values$V1 =="CL41" | pi_values$V1 =="CL77" | pi_values$V1 =="CL100")
 log_maximCopia <- log10(x = rep_maximaCopia$V7)
@@ -121,7 +131,7 @@ for (i in 1:length(clusters)){
   }
 }
 #_________________________
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(b)", col = "grey", cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(b)", col = color_backgroud, cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
 #_________________________
 
 rep_chromoGypsy <- subset(pi_values, pi_values$V1 =="CL19" | pi_values$V1 =="CL20" | pi_values$V1 =="CL28" | pi_values$V1 =="CL40" | pi_values$V1 =="CL67" | pi_values$V1 =="CL83" | pi_values$V1 =="CL84" | pi_values$V1 =="CL125" | pi_values$V1 =="CL126" | pi_values$V1 =="CL129" | pi_values$V1 =="CL161")
@@ -149,7 +159,7 @@ for (i in 1:length(clusters)){
   }
 }
 #_________________________
-plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(c)", col = "grey",cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
+plot(pi_values$V6,log_cove,xlab = "Divergence",ylab = "Logarithmic   Coverage", pch=19, cex=cex.point, main = "(c)", col = color_backgroud,cex.lab=cex.plot, cex.axis=cex.plot, cex.main = 1.5*cex.plot)
 #_________________________
 rRNA <- subset(pi_values,  pi_values$V1 =="CL52" | pi_values$V1 =="CL56" | pi_values$V1 =="CL62" | pi_values$V1 =="CL76" | pi_values$V1 =="CL80" | pi_values$V1 =="CL82")
 log_rrna <- log10(x = rRNA$V7)
