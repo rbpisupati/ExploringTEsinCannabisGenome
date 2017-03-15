@@ -1,4 +1,4 @@
-1,bit_score,perc_div,perc_del,perc_ins,query_sequence,q_pos_begin,q_pos_end,q_pos_left,strand,matching,repeat_class,r_pos_start,r_pos_end,r_pos_left,id
+bit_score,perc_div,perc_del,perc_ins,query_sequence,q_pos_begin,q_pos_end,q_pos_left,strand,matching,repeat_class,r_pos_start,r_pos_end,r_pos_left,id,conf
 2,13,18.7,0.0,5.3,CL100Contig76,255,294,(251),+,(TTGCTCA)n,Simple_repeat,1,38,(0),1,
 3,14,26.7,0.0,2.2,CL101Contig11,534,580,(6485),+,(CGAG)n,Simple_repeat,1,46,(0),2,
 4,19,0.0,0.0,0.0,CL101Contig11,3384,3407,(3658),+,(CAC)n,Simple_repeat,1,24,(0),3,
