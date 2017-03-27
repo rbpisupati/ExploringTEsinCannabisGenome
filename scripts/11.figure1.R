@@ -1,12 +1,12 @@
 library("RColorBrewer")
 library("ape")
 
-setwd("~/Documents/Projects/Summer'14/figure1/")
+setwd("~/Documents/ExploringTEsinCannabisGenome/genome_all/")
 
 repFamilies <- read.table("repeat_content_4genomes.csv", sep = ",", header = T)
 rownames(repFamilies) <- repFamilies$X
 
-CommonTree <- read.tree("phyliptree.phy")
+CommonTree <- read.tree("cladogram_4genomes_NCBI.phy")
 EudicotRepFamilies <- repFamilies[,CommonTree$tip.label]
 
 families <- rownames(EudicotRepFamilies)
